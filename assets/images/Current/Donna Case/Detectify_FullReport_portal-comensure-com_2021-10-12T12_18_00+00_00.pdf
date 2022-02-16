@@ -1,0 +1,8949 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 586
+>>
+stream
+0.27 w
+0 G
+q
+75.00 0 0 77.25 481.95 731.31 cm
+/I0 Do
+Q
+BT
+/F2 40 Tf
+40.00 TL
+0.200 g
+40.00 564.56 Td
+(VULNERABILITY REPORT) Tj
+ET
+BT
+/F1 30 Tf
+30.00 TL
+0.200 g
+40.00 523.22 Td
+(portal.comensure.com) Tj
+ET
+0.20 g
+40.00 496.56 515.28 -6.67 re
+f
+0.30 0.78 0.76 rg
+40.00 487.22 515.28 -2.67 re
+f
+BT
+/F2 14 Tf
+14.00 TL
+0.200 g
+40.00 418.16 Td
+(Scan Started) Tj
+ET
+BT
+/F1 14 Tf
+14.00 TL
+0.200 g
+40.00 391.76 Td
+(2021-10-12T12:18:00+00:00) Tj
+ET
+BT
+/F2 14 Tf
+14.00 TL
+0.200 g
+40.00 352.02 Td
+(Scan Finished) Tj
+ET
+BT
+/F1 14 Tf
+14.00 TL
+0.200 g
+40.00 325.62 Td
+(2021-10-12T14:27:17+00:00) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 4501
+>>
+stream
+0.27 w
+0 G
+BT
+/F2 28 Tf
+28.00 TL
+0.200 g
+40.00 762.42 Td
+(Your findings) Tj
+ET
+0.31 g
+40.00 751.76 515.28 -2.67 re
+f
+BT
+/F1 14 Tf
+14.00 TL
+0.267 g
+40.00 717.36 Td
+(Your scan was completed with the following findings discovered.) Tj
+ET
+0.86 g
+40.00 698.69 106.67 -80.00 re
+f
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+80.01 674.16 Td
+(High) Tj
+ET
+BT
+/F2 28 Tf
+28.00 TL
+0.200 g
+85.63 634.69 Td
+(0) Tj
+ET
+0.94 0.85 0.52 rg
+162.67 698.69 106.67 -80.00 re
+f
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+193.38 674.16 Td
+(Medium) Tj
+ET
+BT
+/F2 28 Tf
+28.00 TL
+0.200 g
+208.30 634.69 Td
+(5) Tj
+ET
+0.86 g
+285.33 698.69 106.67 -80.00 re
+f
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+326.67 674.16 Td
+(Low) Tj
+ET
+BT
+/F2 28 Tf
+28.00 TL
+0.200 g
+330.97 634.69 Td
+(0) Tj
+ET
+0.67 0.85 0.60 rg
+408.00 698.69 106.67 -80.00 re
+f
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+428.39 674.16 Td
+(Information) Tj
+ET
+BT
+/F2 28 Tf
+28.00 TL
+0.200 g
+445.93 634.69 Td
+(12) Tj
+ET
+BT
+/F1 14 Tf
+14.00 TL
+0.267 g
+40.00 578.96 Td
+(Listed below are your most recent findings, with the most severe listed first. To) Tj
+ET
+BT
+/F1 14 Tf
+14.00 TL
+0.267 g
+40.00 559.22 Td
+(improve your threat score, prioritise these top issues.) Tj
+ET
+BT
+/F1 8 Tf
+8.00 TL
+0.267 g
+45.33 541.09 Td
+(Severity) Tj
+ET
+BT
+/F1 8 Tf
+8.00 TL
+0.267 g
+130.67 541.62 Td
+(Issue Type) Tj
+ET
+BT
+/F1 8 Tf
+8.00 TL
+0.267 g
+496.00 542.16 Td
+(Times found) Tj
+ET
+0.93 g
+40.00 531.49 515.28 -20.00 re
+f
+0.94 0.85 0.52 rg
+40.00 531.49 85.33 -20.00 re
+f
+BT
+/F1 10 Tf
+10.00 TL
+1.000 g
+46.67 518.16 Td
+(MEDIUM) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+132.00 518.16 Td
+(Login over HTTP-GET) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+534.67 518.16 Td
+(1) Tj
+ET
+0.93 g
+40.00 507.49 515.28 -20.00 re
+f
+0.94 0.85 0.52 rg
+40.00 507.49 85.33 -20.00 re
+f
+BT
+/F1 10 Tf
+10.00 TL
+1.000 g
+46.67 494.16 Td
+(MEDIUM) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+132.00 494.16 Td
+(Cookie is not set to be HttpOnly) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+534.67 494.16 Td
+(2) Tj
+ET
+0.93 g
+40.00 483.49 515.28 -20.00 re
+f
+0.94 0.85 0.52 rg
+40.00 483.49 85.33 -20.00 re
+f
+BT
+/F1 10 Tf
+10.00 TL
+1.000 g
+46.67 470.16 Td
+(MEDIUM) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+132.00 470.16 Td
+(Cookie lack Secure flag) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+534.67 470.16 Td
+(1) Tj
+ET
+0.93 g
+40.00 459.49 515.28 -20.00 re
+f
+0.94 0.85 0.52 rg
+40.00 459.49 85.33 -20.00 re
+f
+BT
+/F1 10 Tf
+10.00 TL
+1.000 g
+46.67 446.16 Td
+(MEDIUM) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+132.00 446.16 Td
+(External Links using target='_blank') Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+534.67 446.16 Td
+(1) Tj
+ET
+0.93 g
+40.00 435.49 515.28 -20.00 re
+f
+0.67 0.85 0.60 rg
+40.00 435.49 85.33 -20.00 re
+f
+BT
+/F1 10 Tf
+10.00 TL
+1.000 g
+46.67 422.16 Td
+(INFORMATION) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+132.00 422.16 Td
+(Fingerprinted Software) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+534.67 422.16 Td
+(1) Tj
+ET
+0.93 g
+40.00 411.49 515.28 -20.00 re
+f
+0.67 0.85 0.60 rg
+40.00 411.49 85.33 -20.00 re
+f
+BT
+/F1 10 Tf
+10.00 TL
+1.000 g
+46.67 398.16 Td
+(INFORMATION) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+132.00 398.16 Td
+(ASP.NET Error Message) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+534.67 398.16 Td
+(3) Tj
+ET
+0.93 g
+40.00 387.49 515.28 -20.00 re
+f
+0.67 0.85 0.60 rg
+40.00 387.49 85.33 -20.00 re
+f
+BT
+/F1 10 Tf
+10.00 TL
+1.000 g
+46.67 374.16 Td
+(INFORMATION) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+132.00 374.16 Td
+(Access-Control-Allow-Origin / Invalid Directive) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+534.67 374.16 Td
+(1) Tj
+ET
+0.93 g
+40.00 363.49 515.28 -20.00 re
+f
+0.67 0.85 0.60 rg
+40.00 363.49 85.33 -20.00 re
+f
+BT
+/F1 10 Tf
+10.00 TL
+1.000 g
+46.67 350.16 Td
+(INFORMATION) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+132.00 350.16 Td
+(HTML Comments) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+534.67 350.16 Td
+(4) Tj
+ET
+0.93 g
+40.00 339.49 515.28 -20.00 re
+f
+0.67 0.85 0.60 rg
+40.00 339.49 85.33 -20.00 re
+f
+BT
+/F1 10 Tf
+10.00 TL
+1.000 g
+46.67 326.16 Td
+(INFORMATION) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+132.00 326.16 Td
+(Discovered Host) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+534.67 326.16 Td
+(1) Tj
+ET
+0.93 g
+40.00 315.49 515.28 -20.00 re
+f
+0.67 0.85 0.60 rg
+40.00 315.49 85.33 -20.00 re
+f
+BT
+/F1 10 Tf
+10.00 TL
+1.000 g
+46.67 302.16 Td
+(INFORMATION) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+132.00 302.16 Td
+(Crawled URL's) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+534.67 302.16 Td
+(1) Tj
+ET
+0.93 g
+40.00 291.49 515.28 -20.00 re
+f
+0.67 0.85 0.60 rg
+40.00 291.49 85.33 -20.00 re
+f
+BT
+/F1 10 Tf
+10.00 TL
+1.000 g
+46.67 278.16 Td
+(INFORMATION) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+132.00 278.16 Td
+(Service Providers) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+534.67 278.16 Td
+(1) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 1434
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+536.45 20.00 Td
+(1) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+0.94 0.85 0.52 rg
+555.28 780.56 m 555.28 789.39 548.12 796.56 539.28 796.56 c
+530.44 796.56 523.28 789.39 523.28 780.56 c
+523.28 771.72 530.44 764.56 539.28 764.56 c
+548.12 764.56 555.28 771.72 555.28 780.56 c
+f
+BT
+/F2 18 Tf
+18.00 TL
+0.200 g
+40.00 771.76 Td
+(1 Login over HTTP-GET) Tj
+ET
+0.94 0.85 0.52 rg
+40.00 738.42 515.28 -2.67 re
+f
+BT
+/F2 16 Tf
+16.00 TL
+0.941 0.847 0.522 rg
+40.00 694.16 Td
+(Summary) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 662.96 Td
+(What does this mean?) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 642.96 Td
+(Passwords may appear visible in the URL and stored in the browser's history. It may also be cached by immediate) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 626.96 Td
+(proxies and getting stored in remote server logs.) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 602.42 Td
+(What can happen?) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 582.42 Td
+(The login form is sending data using HTTP GET-request.) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 557.89 Td
+(Found at) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+473.33 557.89 Td
+(CVSS Score) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 535.22 Td
+(1.1) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+73.33 535.22 Td
+(https://portal.comensure.com/Home/Login/) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.941 0.847 0.522 rg
+475.28 535.22 Td
+(5) Tj
+ET
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 3988
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+536.45 20.00 Td
+(2) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+0.94 0.85 0.52 rg
+555.28 780.56 m 555.28 789.39 548.12 796.56 539.28 796.56 c
+530.44 796.56 523.28 789.39 523.28 780.56 c
+523.28 771.72 530.44 764.56 539.28 764.56 c
+548.12 764.56 555.28 771.72 555.28 780.56 c
+f
+BT
+/F2 18 Tf
+18.00 TL
+0.200 g
+40.00 771.76 Td
+(1.1 Login over HTTP-GET) Tj
+ET
+0.94 0.85 0.52 rg
+40.00 738.42 515.28 -2.67 re
+f
+BT
+/F2 16 Tf
+16.00 TL
+0.941 0.847 0.522 rg
+40.00 694.16 Td
+(Summary) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+46.67 662.96 Td
+(Found at) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+373.33 662.96 Td
+(CVSS Score) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 644.82 Td
+(https://portal.comensure.com/Home/Login/) Tj
+ET
+BT
+/F2 15 Tf
+15.00 TL
+0.941 0.847 0.522 rg
+373.33 640.16 Td
+(5) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+46.67 616.29 Td
+(Request URL) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 593.62 Td
+(https://portal.comensure.com/Home/Login/) Tj
+ET
+BT
+/F2 16 Tf
+16.00 TL
+0.941 0.847 0.522 rg
+40.00 552.02 Td
+(Request Headers) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 522.69 Td
+(GET /Home/Login/ HTTP/1.1) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 500.02 Td
+(Accept) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 500.02 Td
+(text/html,application/xhtml+xml,application/xml; q=0.9,image/webp,*/*; q=0.8) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 484.02 Td
+(Upgrade-Insecure-Requests) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 484.02 Td
+(1) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 468.02 Td
+(User-Agent) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 468.02 Td
+(Mozilla/5.0 \(compatible; Detectify\)) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 452.02 Td
+(+https://detectify.com/bot/aba7f2d6943512ed8fa1898f9475c2b3dbe269a9) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 436.02 Td
+(Sec-Fetch-Dest) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 436.02 Td
+(document) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 420.02 Td
+(Sec-Fetch-Site) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 420.02 Td
+(same-origin) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 404.02 Td
+(Sec-Fetch-User) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 404.02 Td
+(?1) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 388.02 Td
+(Accept-Encoding) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 388.02 Td
+(gzip, deflate, br) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 372.02 Td
+(Accept-Language) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 372.02 Td
+(en-US) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 356.02 Td
+(Sec-Fetch-Mode) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 356.02 Td
+(navigate) Tj
+ET
+BT
+/F2 16 Tf
+16.00 TL
+0.941 0.847 0.522 rg
+40.00 321.09 Td
+(Response Headers) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 291.76 Td
+(HTTP/1.1 200 OK) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 269.09 Td
+(Server) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 269.09 Td
+(Microsoft-IIS/10.0) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 253.09 Td
+(Access-Control-Allow-Origi) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 237.09 Td
+(n) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 253.09 Td
+(http://localhost http://localhost:59779 http://23.99.140.10/) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 237.09 Td
+(http://23.99.140.10/trusted) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 221.09 Td
+(Access-Control-Allow-Meth) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 205.09 Td
+(ods) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 221.09 Td
+(GET,POST,PUT,DELETE,OPTIONS) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 189.09 Td
+(Connection) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 189.09 Td
+(keep-alive) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 173.09 Td
+(Date) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 173.09 Td
+(Tue, 12 Oct 2021 12:49:12 GMT) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 157.09 Td
+(X-AspNetMvc-Version) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 157.09 Td
+(5.2) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 141.09 Td
+(Cache-Control) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 141.09 Td
+(private, s-maxage=0) Tj
+ET
+endstream
+endobj
+11 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 2578
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+536.45 20.00 Td
+(3) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 779.22 Td
+(Access-Control-Allow-Cred) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 763.22 Td
+(entials) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 779.22 Td
+(true) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 747.22 Td
+(Content-Security-Policy) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 747.22 Td
+(frame-src http://23.99.140.10 http://23.99.140.10/trusted) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 731.22 Td
+(https://tableau.comensure.com http://tableau.comensure.com http://localhost:59779) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 715.22 Td
+(https://style1.comensure.com/ http://style1.comensure.com/ https://*.tableau.com;) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 699.22 Td
+(worker-src https://*.comensure.com http://*.comensure.com blob:) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 683.22 Td
+(X-AspNet-Version) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 683.22 Td
+(4.0.30319) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 667.22 Td
+(Content-Length) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 667.22 Td
+(233650) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 651.22 Td
+(Content-Security-Policy-Re) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 635.22 Td
+(port-Only) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 651.22 Td
+(frame-src http://localhost http://localhost:59779 http://23.99.140.10) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 635.22 Td
+(http://23.99.140.10/trusted https://tableau.comensure.com) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 619.22 Td
+(https://style1.comensure.com/ http://style1.comensure.com/ https://*.tableau.com) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 603.22 Td
+(http://tableau.comensure.com; worker-src 'self' http://localhost:*) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 587.22 Td
+(http://*.comensure.com  https://*.comensure.com data: gap: blob:; script-src) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 571.22 Td
+(http://23.99.140.10 http://23.99.140.10 'self' http://localhost:*) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 555.22 Td
+(http://*.comensure.com https://*.comensure.com https://*.tableau.com) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 539.22 Td
+('unsafe-inline' 'unsafe-eval') Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 523.22 Td
+(Content-Type) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 523.22 Td
+(text/html; charset=utf-8) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 507.22 Td
+(X-Powered-By) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 507.22 Td
+(ASP.NET) Tj
+ET
+endstream
+endobj
+13 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 14 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 1862
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+536.45 20.00 Td
+(4) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+0.94 0.85 0.52 rg
+555.28 780.56 m 555.28 789.39 548.12 796.56 539.28 796.56 c
+530.44 796.56 523.28 789.39 523.28 780.56 c
+523.28 771.72 530.44 764.56 539.28 764.56 c
+548.12 764.56 555.28 771.72 555.28 780.56 c
+f
+BT
+/F2 18 Tf
+18.00 TL
+0.200 g
+40.00 771.76 Td
+(2 Cookie is not set to be HttpOnly) Tj
+ET
+0.94 0.85 0.52 rg
+40.00 738.42 515.28 -2.67 re
+f
+BT
+/F2 16 Tf
+16.00 TL
+0.941 0.847 0.522 rg
+40.00 694.16 Td
+(Summary) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 662.96 Td
+(What does this mean?) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 642.96 Td
+(If an attacker discovers an XSS he may use it to steal cookies which haven't got the HttpOnly-flag.) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 618.42 Td
+(What can happen?) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 598.42 Td
+(One or more cookies lack the HttpOnly flag. ) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 582.42 Td
+() Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 566.42 Td
+(Read more at) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 550.42 Td
+([https://support.detectify.com/support/solutions/articles/48001048952-missing-httponly-flag-on-cookies|our knowledge) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 534.42 Td
+(base].) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 509.89 Td
+(Found at) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+473.33 509.89 Td
+(CVSS Score) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 487.22 Td
+(2.1) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+73.33 487.22 Td
+(portal.comensure.com) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.941 0.847 0.522 rg
+475.28 487.22 Td
+(4.3) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 471.22 Td
+(2.2) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+73.33 471.22 Td
+(portal.comensure.com) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.941 0.847 0.522 rg
+475.28 471.22 Td
+(4.3) Tj
+ET
+endstream
+endobj
+15 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 16 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 2707
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+536.45 20.00 Td
+(5) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+0.94 0.85 0.52 rg
+555.28 780.56 m 555.28 789.39 548.12 796.56 539.28 796.56 c
+530.44 796.56 523.28 789.39 523.28 780.56 c
+523.28 771.72 530.44 764.56 539.28 764.56 c
+548.12 764.56 555.28 771.72 555.28 780.56 c
+f
+BT
+/F2 18 Tf
+18.00 TL
+0.200 g
+40.00 771.76 Td
+(2.1 Cookie is not set to be HttpOnly) Tj
+ET
+0.94 0.85 0.52 rg
+40.00 738.42 515.28 -2.67 re
+f
+BT
+/F2 16 Tf
+16.00 TL
+0.941 0.847 0.522 rg
+40.00 694.16 Td
+(Summary) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+46.67 662.96 Td
+(Found at) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+373.33 662.96 Td
+(CVSS Score) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 644.82 Td
+(portal.comensure.com) Tj
+ET
+BT
+/F2 15 Tf
+15.00 TL
+0.941 0.847 0.522 rg
+373.33 640.16 Td
+(4.3) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+46.67 616.29 Td
+(Vulnerable Cookie) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 593.62 Td
+(ApplicationGatewayAffinity) Tj
+ET
+BT
+/F2 16 Tf
+16.00 TL
+0.941 0.847 0.522 rg
+40.00 552.02 Td
+(Cookie) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 522.69 Td
+(Name) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 522.69 Td
+(ApplicationGatewayAffinity) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 506.69 Td
+(Value) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 506.69 Td
+(2f0302523fbb62ebce3be04a0f58edff) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 490.69 Td
+(Domain) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 490.69 Td
+(portal.comensure.com) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 474.69 Td
+(Path) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 474.69 Td
+(/) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 458.69 Td
+(Secure) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 458.69 Td
+(No) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 442.69 Td
+(HttpOnly) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 442.69 Td
+(No) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 426.69 Td
+(Expires) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 426.69 Td
+(session) Tj
+ET
+BT
+/F2 16 Tf
+16.00 TL
+0.941 0.847 0.522 rg
+40.00 391.76 Td
+(References) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 362.42 Td
+(DETECTIFY - Detectify Support Center -) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 346.42 Td
+(Missing HttpOnly flag on cookies) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 362.42 Td
+(https://support.detectify.com/support/solutions/articles/48001048952) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 346.42 Td
+(-missing-httponly-flag-on-cookies) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 330.42 Td
+(DETECTIFY - What is Security) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 314.42 Td
+(Misconfiguration?) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 330.42 Td
+(https://www.youtube.com/watch?v=WQ4svQu0Rn8) Tj
+ET
+endstream
+endobj
+17 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 18 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 2716
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+536.45 20.00 Td
+(6) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+0.94 0.85 0.52 rg
+555.28 780.56 m 555.28 789.39 548.12 796.56 539.28 796.56 c
+530.44 796.56 523.28 789.39 523.28 780.56 c
+523.28 771.72 530.44 764.56 539.28 764.56 c
+548.12 764.56 555.28 771.72 555.28 780.56 c
+f
+BT
+/F2 18 Tf
+18.00 TL
+0.200 g
+40.00 771.76 Td
+(2.2 Cookie is not set to be HttpOnly) Tj
+ET
+0.94 0.85 0.52 rg
+40.00 738.42 515.28 -2.67 re
+f
+BT
+/F2 16 Tf
+16.00 TL
+0.941 0.847 0.522 rg
+40.00 694.16 Td
+(Summary) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+46.67 662.96 Td
+(Found at) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+373.33 662.96 Td
+(CVSS Score) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 644.82 Td
+(portal.comensure.com) Tj
+ET
+BT
+/F2 15 Tf
+15.00 TL
+0.941 0.847 0.522 rg
+373.33 640.16 Td
+(4.3) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+46.67 616.29 Td
+(Vulnerable Cookie) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 593.62 Td
+(ApplicationGatewayAffinityCORS) Tj
+ET
+BT
+/F2 16 Tf
+16.00 TL
+0.941 0.847 0.522 rg
+40.00 552.02 Td
+(Cookie) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 522.69 Td
+(Name) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 522.69 Td
+(ApplicationGatewayAffinityCORS) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 506.69 Td
+(Value) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 506.69 Td
+(2f0302523fbb62ebce3be04a0f58edff) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 490.69 Td
+(Domain) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 490.69 Td
+(portal.comensure.com) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 474.69 Td
+(Path) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 474.69 Td
+(/) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 458.69 Td
+(Secure) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 458.69 Td
+(Yes) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 442.69 Td
+(HttpOnly) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 442.69 Td
+(No) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 426.69 Td
+(Expires) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 426.69 Td
+(session) Tj
+ET
+BT
+/F2 16 Tf
+16.00 TL
+0.941 0.847 0.522 rg
+40.00 391.76 Td
+(References) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 362.42 Td
+(DETECTIFY - Detectify Support Center -) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 346.42 Td
+(Missing HttpOnly flag on cookies) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 362.42 Td
+(https://support.detectify.com/support/solutions/articles/48001048952) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 346.42 Td
+(-missing-httponly-flag-on-cookies) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 330.42 Td
+(DETECTIFY - What is Security) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 314.42 Td
+(Misconfiguration?) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 330.42 Td
+(https://www.youtube.com/watch?v=WQ4svQu0Rn8) Tj
+ET
+endstream
+endobj
+19 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 20 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 1864
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+536.45 20.00 Td
+(7) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+0.94 0.85 0.52 rg
+555.28 780.56 m 555.28 789.39 548.12 796.56 539.28 796.56 c
+530.44 796.56 523.28 789.39 523.28 780.56 c
+523.28 771.72 530.44 764.56 539.28 764.56 c
+548.12 764.56 555.28 771.72 555.28 780.56 c
+f
+BT
+/F2 18 Tf
+18.00 TL
+0.200 g
+40.00 771.76 Td
+(3 Cookie lack Secure flag) Tj
+ET
+0.94 0.85 0.52 rg
+40.00 738.42 515.28 -2.67 re
+f
+BT
+/F2 16 Tf
+16.00 TL
+0.941 0.847 0.522 rg
+40.00 694.16 Td
+(Summary) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 662.96 Td
+(What does this mean?) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 642.96 Td
+(On successful exploitation of session cookies, the attacker will be able to set the cookies in his own browser and) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 626.96 Td
+(gain the same privileges as the attacked user. The impact for none-session based cookies varies between systems.) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 602.42 Td
+(What can happen?) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 582.42 Td
+(The cookie\(s\) lack the Secure-flag attribute. An attacker can force the cookie\(s\) to be sent over plain text HTTP, and) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 566.42 Td
+(can therefor intercept the content.) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 550.42 Td
+() Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 534.42 Td
+(Read more [https://support.detectify.com/support/solutions/articles/48001048982-cookie-lack-secure-flag|here].) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 509.89 Td
+(Found at) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+473.33 509.89 Td
+(CVSS Score) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 487.22 Td
+(3.1) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+73.33 487.22 Td
+(portal.comensure.com) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.941 0.847 0.522 rg
+475.28 487.22 Td
+(4.1) Tj
+ET
+endstream
+endobj
+21 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 22 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 2934
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+536.45 20.00 Td
+(8) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+0.94 0.85 0.52 rg
+555.28 780.56 m 555.28 789.39 548.12 796.56 539.28 796.56 c
+530.44 796.56 523.28 789.39 523.28 780.56 c
+523.28 771.72 530.44 764.56 539.28 764.56 c
+548.12 764.56 555.28 771.72 555.28 780.56 c
+f
+BT
+/F2 18 Tf
+18.00 TL
+0.200 g
+40.00 771.76 Td
+(3.1 Cookie lack Secure flag) Tj
+ET
+0.94 0.85 0.52 rg
+40.00 738.42 515.28 -2.67 re
+f
+BT
+/F2 16 Tf
+16.00 TL
+0.941 0.847 0.522 rg
+40.00 694.16 Td
+(Summary) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+46.67 662.96 Td
+(Found at) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+373.33 662.96 Td
+(CVSS Score) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 644.82 Td
+(portal.comensure.com) Tj
+ET
+BT
+/F2 15 Tf
+15.00 TL
+0.941 0.847 0.522 rg
+373.33 640.16 Td
+(4.1) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+46.67 616.29 Td
+(Vulnerable Cookie) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 593.62 Td
+(ApplicationGatewayAffinity) Tj
+ET
+BT
+/F2 16 Tf
+16.00 TL
+0.941 0.847 0.522 rg
+40.00 552.02 Td
+(Cookie) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 522.69 Td
+(Name) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 522.69 Td
+(ApplicationGatewayAffinity) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 506.69 Td
+(Value) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 506.69 Td
+(2f0302523fbb62ebce3be04a0f58edff) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 490.69 Td
+(Domain) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 490.69 Td
+(portal.comensure.com) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 474.69 Td
+(Path) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 474.69 Td
+(/) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 458.69 Td
+(Secure) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 458.69 Td
+(No) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 442.69 Td
+(HttpOnly) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 442.69 Td
+(No) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 426.69 Td
+(Expires) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 426.69 Td
+(session) Tj
+ET
+BT
+/F2 16 Tf
+16.00 TL
+0.941 0.847 0.522 rg
+40.00 391.76 Td
+(References) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 362.42 Td
+(OWASP - SecureFlag) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 362.42 Td
+(https://www.owasp.org/index.php/SecureFlag) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 346.42 Td
+(PORTSWIGGER - SSL cookie without) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 330.42 Td
+(secure flag set) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 346.42 Td
+(https://portswigger.net/KnowledgeBase/issues/Details/00500200_S) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 330.42 Td
+(SLcookiewithoutsecureflagset) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 314.42 Td
+(MISC - Securing Cookies with HttpOnly) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 298.42 Td
+(and secure Flags) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 314.42 Td
+(http://resources.infosecinstitute.com/securing-cookies-httponly-secur) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 298.42 Td
+(e-flags/) Tj
+ET
+endstream
+endobj
+23 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 24 0 R
+>>
+endobj
+24 0 obj
+<<
+/Length 1836
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+536.45 20.00 Td
+(9) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+0.94 0.85 0.52 rg
+555.28 780.56 m 555.28 789.39 548.12 796.56 539.28 796.56 c
+530.44 796.56 523.28 789.39 523.28 780.56 c
+523.28 771.72 530.44 764.56 539.28 764.56 c
+548.12 764.56 555.28 771.72 555.28 780.56 c
+f
+BT
+/F2 18 Tf
+18.00 TL
+0.200 g
+40.00 771.76 Td
+(4 External Links using target='_blank') Tj
+ET
+0.94 0.85 0.52 rg
+40.00 738.42 515.28 -2.67 re
+f
+BT
+/F2 16 Tf
+16.00 TL
+0.941 0.847 0.522 rg
+40.00 694.16 Td
+(Summary) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 662.96 Td
+(What does this mean?) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 642.96 Td
+(The linked page will be able to interact with the originating tab, reading the tab's current URL and redirecting the user) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 626.96 Td
+(to other domains. The linked page will have access to the tab for as long as it remains open.) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 602.42 Td
+(What can happen?) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 582.42 Td
+(Links using target='_blank' gain partial access to the linking page via the window.opener object. ) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 566.42 Td
+() Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 550.42 Td
+(Read more) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 534.42 Td
+([https://support.detectify.com/support/solutions/articles/48001048981-external-links-using-target-blank-|here].) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 509.89 Td
+(Found at) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+473.33 509.89 Td
+(CVSS Score) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 487.22 Td
+(4.1) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+73.33 487.22 Td
+(https://portal.comensure.com/Home/Login/) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.941 0.847 0.522 rg
+475.28 487.22 Td
+(3.1) Tj
+ET
+endstream
+endobj
+25 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 26 0 R
+>>
+endobj
+26 0 obj
+<<
+/Length 4008
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+530.95 20.00 Td
+(10) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+0.94 0.85 0.52 rg
+555.28 780.56 m 555.28 789.39 548.12 796.56 539.28 796.56 c
+530.44 796.56 523.28 789.39 523.28 780.56 c
+523.28 771.72 530.44 764.56 539.28 764.56 c
+548.12 764.56 555.28 771.72 555.28 780.56 c
+f
+BT
+/F2 18 Tf
+18.00 TL
+0.200 g
+40.00 771.76 Td
+(4.1 External Links using target='_blank') Tj
+ET
+0.94 0.85 0.52 rg
+40.00 738.42 515.28 -2.67 re
+f
+BT
+/F2 16 Tf
+16.00 TL
+0.941 0.847 0.522 rg
+40.00 694.16 Td
+(Summary) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+46.67 662.96 Td
+(Found at) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+373.33 662.96 Td
+(CVSS Score) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 644.82 Td
+(https://portal.comensure.com/Home/Login/) Tj
+ET
+BT
+/F2 15 Tf
+15.00 TL
+0.941 0.847 0.522 rg
+373.33 640.16 Td
+(3.1) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+46.67 616.29 Td
+(Request URL) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 593.62 Td
+(https://portal.comensure.com/Home/Login/) Tj
+ET
+BT
+/F2 16 Tf
+16.00 TL
+0.941 0.847 0.522 rg
+40.00 552.02 Td
+(Request Headers) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 522.69 Td
+(GET /Home/Login/ HTTP/1.1) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 500.02 Td
+(Accept) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 500.02 Td
+(text/html,application/xhtml+xml,application/xml; q=0.9,image/webp,*/*; q=0.8) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 484.02 Td
+(Upgrade-Insecure-Requests) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 484.02 Td
+(1) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 468.02 Td
+(User-Agent) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 468.02 Td
+(Mozilla/5.0 \(compatible; Detectify\)) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 452.02 Td
+(+https://detectify.com/bot/aba7f2d6943512ed8fa1898f9475c2b3dbe269a9) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 436.02 Td
+(Sec-Fetch-Dest) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 436.02 Td
+(document) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 420.02 Td
+(Sec-Fetch-Site) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 420.02 Td
+(same-origin) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 404.02 Td
+(Sec-Fetch-User) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 404.02 Td
+(?1) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 388.02 Td
+(Accept-Encoding) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 388.02 Td
+(gzip, deflate, br) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 372.02 Td
+(Accept-Language) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 372.02 Td
+(en-US) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 356.02 Td
+(Sec-Fetch-Mode) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 356.02 Td
+(navigate) Tj
+ET
+BT
+/F2 16 Tf
+16.00 TL
+0.941 0.847 0.522 rg
+40.00 321.09 Td
+(Response Headers) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 291.76 Td
+(HTTP/1.1 200 OK) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 269.09 Td
+(Server) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 269.09 Td
+(Microsoft-IIS/10.0) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 253.09 Td
+(Access-Control-Allow-Origi) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 237.09 Td
+(n) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 253.09 Td
+(http://localhost http://localhost:59779 http://23.99.140.10/) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 237.09 Td
+(http://23.99.140.10/trusted) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 221.09 Td
+(Access-Control-Allow-Meth) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 205.09 Td
+(ods) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 221.09 Td
+(GET,POST,PUT,DELETE,OPTIONS) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 189.09 Td
+(Connection) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 189.09 Td
+(keep-alive) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 173.09 Td
+(Date) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 173.09 Td
+(Tue, 12 Oct 2021 12:49:12 GMT) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 157.09 Td
+(X-AspNetMvc-Version) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 157.09 Td
+(5.2) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 141.09 Td
+(Cache-Control) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 141.09 Td
+(private, s-maxage=0) Tj
+ET
+endstream
+endobj
+27 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 28 0 R
+>>
+endobj
+28 0 obj
+<<
+/Length 5002
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+530.95 20.00 Td
+(11) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 779.22 Td
+(Access-Control-Allow-Cred) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 763.22 Td
+(entials) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 779.22 Td
+(true) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 747.22 Td
+(Content-Security-Policy) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 747.22 Td
+(frame-src http://23.99.140.10 http://23.99.140.10/trusted) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 731.22 Td
+(https://tableau.comensure.com http://tableau.comensure.com http://localhost:59779) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 715.22 Td
+(https://style1.comensure.com/ http://style1.comensure.com/ https://*.tableau.com;) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 699.22 Td
+(worker-src https://*.comensure.com http://*.comensure.com blob:) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 683.22 Td
+(X-AspNet-Version) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 683.22 Td
+(4.0.30319) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 667.22 Td
+(Content-Length) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 667.22 Td
+(233650) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 651.22 Td
+(Content-Security-Policy-Re) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 635.22 Td
+(port-Only) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 651.22 Td
+(frame-src http://localhost http://localhost:59779 http://23.99.140.10) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 635.22 Td
+(http://23.99.140.10/trusted https://tableau.comensure.com) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 619.22 Td
+(https://style1.comensure.com/ http://style1.comensure.com/ https://*.tableau.com) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 603.22 Td
+(http://tableau.comensure.com; worker-src 'self' http://localhost:*) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 587.22 Td
+(http://*.comensure.com  https://*.comensure.com data: gap: blob:; script-src) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 571.22 Td
+(http://23.99.140.10 http://23.99.140.10 'self' http://localhost:*) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 555.22 Td
+(http://*.comensure.com https://*.comensure.com https://*.tableau.com) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 539.22 Td
+('unsafe-inline' 'unsafe-eval') Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 523.22 Td
+(Content-Type) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 523.22 Td
+(text/html; charset=utf-8) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 507.22 Td
+(X-Powered-By) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 507.22 Td
+(ASP.NET) Tj
+ET
+BT
+/F2 16 Tf
+16.00 TL
+0.941 0.847 0.522 rg
+40.00 472.29 Td
+(References) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 442.96 Td
+( M I S C   -   T a r g e t = " _ b l a n k " 
+ - 
+ t h e   m o s t) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 426.96 Td
+(underestimated vulnerability ever) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 442.96 Td
+(https://medium.com/@jitbit/target-blank-the-most-underestimated-vu) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 426.96 Td
+(lnerability-ever-96e328301f4c#.oh7ggu8gn) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 410.96 Td
+(YCOMBINATOR - Hacker News) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 394.96 Td
+(Discussion) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 410.96 Td
+(https://news.ycombinator.com/item?id=11631292) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 378.96 Td
+(GITHUB - Target Blank Vulnerability) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 378.96 Td
+(https://github.com/chafikhnini/target-blank-vulnerability) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 362.96 Td
+(MISC - When to use target="_blank") Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 362.96 Td
+(https://css-tricks.com/use-target_blank/) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 346.96 Td
+(DETECTIFY - Detectify Support Center -) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 330.96 Td
+(External Links using target='_blank') Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 346.96 Td
+(https://support.detectify.com/support/solutions/articles/48001048981) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 330.96 Td
+(-external-links-using-target-blank-) Tj
+ET
+0.92 g
+46.67 297.62 515.28 -6.67 re
+f
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 274.96 Td
+(This finding is only made if the "href" value is an external URL.) Tj
+ET
+0.92 g
+46.67 268.29 515.28 -6.67 re
+f
+0.92 g
+46.67 248.29 515.28 -6.67 re
+f
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 225.62 Td
+(In order to mitigate the issue, add the following attribue to your link\(s\): rel="noopener noreferrer".) Tj
+ET
+0.92 g
+46.67 218.96 515.28 -6.67 re
+f
+0.92 g
+46.67 198.96 515.28 -6.67 re
+f
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 176.29 Td
+(Setting target="_blank" on <a> elements now implicitly provides the same rel behavior as setting) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 160.29 Td
+(rel="noopener" in Google Chrome, Microsoft Edge, Firefox and Safari. Internet Explorer and Opera are still) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 144.29 Td
+(vulnerable.) Tj
+ET
+0.92 g
+46.67 137.62 515.28 -6.67 re
+f
+endstream
+endobj
+29 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 30 0 R
+>>
+endobj
+30 0 obj
+<<
+/Length 1899
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+530.95 20.00 Td
+(12) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+0.67 0.85 0.60 rg
+555.28 780.56 m 555.28 789.39 548.12 796.56 539.28 796.56 c
+530.44 796.56 523.28 789.39 523.28 780.56 c
+523.28 771.72 530.44 764.56 539.28 764.56 c
+548.12 764.56 555.28 771.72 555.28 780.56 c
+f
+BT
+/F2 18 Tf
+18.00 TL
+0.200 g
+40.00 771.76 Td
+(5 Fingerprinted Software) Tj
+ET
+0.67 0.85 0.60 rg
+40.00 738.42 515.28 -2.67 re
+f
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 694.16 Td
+(Summary) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 662.96 Td
+(What does this mean?) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 642.96 Td
+(Invalid fingerprints may cause a audit to take longer, and the lack of fingerprints may cause Detectify to miss running) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 626.96 Td
+(specific tests.) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 602.42 Td
+(What can happen?) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 582.42 Td
+(When Detectify audits an application, it collects various fingerprints that indicate what software is running. These) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 566.42 Td
+(fingerprints then allow Detectify to run specific tests when the time is right. ) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 550.42 Td
+() Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 534.42 Td
+(Please make sure Detectify provide accurate data for these fingerprints, by sending us a message in the feedback) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 518.42 Td
+(form on the finding details page.) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 493.89 Td
+(Found at) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+473.33 493.89 Td
+(CVSS Score) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 471.22 Td
+(5.1) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+73.33 471.22 Td
+(portal.comensure.com) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.675 0.851 0.600 rg
+475.28 471.22 Td
+(0) Tj
+ET
+endstream
+endobj
+31 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 32 0 R
+>>
+endobj
+32 0 obj
+<<
+/Length 2978
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+530.95 20.00 Td
+(13) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+0.67 0.85 0.60 rg
+555.28 780.56 m 555.28 789.39 548.12 796.56 539.28 796.56 c
+530.44 796.56 523.28 789.39 523.28 780.56 c
+523.28 771.72 530.44 764.56 539.28 764.56 c
+548.12 764.56 555.28 771.72 555.28 780.56 c
+f
+BT
+/F2 18 Tf
+18.00 TL
+0.200 g
+40.00 771.76 Td
+(5.1 Fingerprinted Software) Tj
+ET
+0.67 0.85 0.60 rg
+40.00 738.42 515.28 -2.67 re
+f
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 694.16 Td
+(Summary) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+46.67 662.96 Td
+(Found at) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+373.33 662.96 Td
+(CVSS Score) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 644.82 Td
+(portal.comensure.com) Tj
+ET
+BT
+/F2 15 Tf
+15.00 TL
+0.675 0.851 0.600 rg
+373.33 640.16 Td
+(0) Tj
+ET
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 599.22 Td
+(References) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 569.89 Td
+(DETECTIFY - An intelligent way to look) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 553.89 Td
+(for vulnerabilities) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 569.89 Td
+(https://blog.detectify.com/2016/01/28/an-intelligent-way-to-look-for-v) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 553.89 Td
+(ulnerabilities/) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 537.89 Td
+(DETECTIFY - What's under the hood) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 537.89 Td
+(https://detectify.com/technology) Tj
+ET
+0.92 g
+46.67 504.56 515.28 -6.67 re
+f
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 481.89 Td
+(Vendor:     microsoft) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 465.89 Td
+(Software:   iis) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 449.89 Td
+(Version:    10.0) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 433.89 Td
+(Confidence: 100) Tj
+ET
+0.92 g
+46.67 427.22 515.28 -6.67 re
+f
+0.92 g
+46.67 407.22 515.28 -6.67 re
+f
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 384.56 Td
+(Vendor:     microsoft) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 368.56 Td
+(Software:   .net_framework) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 352.56 Td
+(Version:    4.0.30319) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 336.56 Td
+(Confidence: 100) Tj
+ET
+0.92 g
+46.67 329.89 515.28 -6.67 re
+f
+0.92 g
+46.67 309.89 515.28 -6.67 re
+f
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 287.22 Td
+(Vendor:     microsoft) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 271.22 Td
+(Software:   windows) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 255.22 Td
+(Confidence: 30) Tj
+ET
+0.92 g
+46.67 248.56 515.28 -6.67 re
+f
+0.92 g
+46.67 228.56 515.28 -6.67 re
+f
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 205.89 Td
+(Vendor:     microsoft) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 189.89 Td
+(Software:   asp.net) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 173.89 Td
+(Version:    4.0.30319) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 157.89 Td
+(Confidence: 100) Tj
+ET
+0.92 g
+46.67 151.22 515.28 -6.67 re
+f
+0.92 g
+46.67 131.22 515.28 -6.67 re
+f
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 108.56 Td
+(Software:   ispconfig) Tj
+ET
+endstream
+endobj
+33 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 34 0 R
+>>
+endobj
+34 0 obj
+<<
+/Length 254
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+530.95 20.00 Td
+(14) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+53.33 788.56 Td
+(Confidence: 100) Tj
+ET
+0.92 g
+46.67 781.89 515.28 -6.67 re
+f
+endstream
+endobj
+35 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 36 0 R
+>>
+endobj
+36 0 obj
+<<
+/Length 1913
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+530.95 20.00 Td
+(15) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+0.67 0.85 0.60 rg
+555.28 780.56 m 555.28 789.39 548.12 796.56 539.28 796.56 c
+530.44 796.56 523.28 789.39 523.28 780.56 c
+523.28 771.72 530.44 764.56 539.28 764.56 c
+548.12 764.56 555.28 771.72 555.28 780.56 c
+f
+BT
+/F2 18 Tf
+18.00 TL
+0.200 g
+40.00 771.76 Td
+(6 ASP.NET Error Message) Tj
+ET
+0.67 0.85 0.60 rg
+40.00 738.42 515.28 -2.67 re
+f
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 694.16 Td
+(Summary) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 662.96 Td
+(What does this mean?) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 642.96 Td
+(Verbose error messages may leak sensitive information. Error messages may also be the result of flawed code.) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 618.42 Td
+(What can happen?) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 598.42 Td
+(There is an error message leaking in the application.) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 573.89 Td
+(Found at) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+473.33 573.89 Td
+(CVSS Score) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 551.22 Td
+(6.1) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+73.33 551.22 Td
+(https://portal.comensure.com/Content/images/foo%60%3C%25%22%27%7B$%2A%2) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+73.33 535.22 Td
+(5%5C) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.675 0.851 0.600 rg
+475.28 551.22 Td
+(0) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 519.22 Td
+(6.2) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+73.33 519.22 Td
+(https://portal.comensure.com/Content/foo%60%3C%25%22%27%7B$%2A%25%5C) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.675 0.851 0.600 rg
+475.28 519.22 Td
+(0) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 503.22 Td
+(6.3) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+73.33 503.22 Td
+(https://portal.comensure.com/foo%60%3C%25%22%27%7B$%2A%25%5C) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.675 0.851 0.600 rg
+475.28 503.22 Td
+(0) Tj
+ET
+endstream
+endobj
+37 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 38 0 R
+>>
+endobj
+38 0 obj
+<<
+/Length 3805
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+530.95 20.00 Td
+(16) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+0.67 0.85 0.60 rg
+555.28 780.56 m 555.28 789.39 548.12 796.56 539.28 796.56 c
+530.44 796.56 523.28 789.39 523.28 780.56 c
+523.28 771.72 530.44 764.56 539.28 764.56 c
+548.12 764.56 555.28 771.72 555.28 780.56 c
+f
+BT
+/F2 18 Tf
+18.00 TL
+0.200 g
+40.00 771.76 Td
+(6.1 ASP.NET Error Message) Tj
+ET
+0.67 0.85 0.60 rg
+40.00 738.42 515.28 -2.67 re
+f
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 694.16 Td
+(Summary) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+46.67 662.96 Td
+(Found at) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+373.33 662.96 Td
+(CVSS Score) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 644.82 Td
+(https://portal.comensure.com/Content/images/foo%60%3C) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 628.82 Td
+(%25%22%27%7B$%2A%25%5C) Tj
+ET
+BT
+/F2 15 Tf
+15.00 TL
+0.675 0.851 0.600 rg
+373.33 640.16 Td
+(0) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+46.67 604.29 Td
+(Request URL) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 581.62 Td
+(https://portal.comensure.com/Content/images/foo%60%3C%25%22%27%7B$%2A%25%5C) Tj
+ET
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 540.02 Td
+(Request Headers) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 510.69 Td
+(GET /Content/images/foo%60%3C%25%22%27%7B$%2A%25%5C HTTP/1.1) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 488.02 Td
+(Upgrade-Insecure-Requests) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 488.02 Td
+(1) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 472.02 Td
+(Sec-Fetch-Dest) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 472.02 Td
+(document) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 456.02 Td
+(User-Agent) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 456.02 Td
+(Mozilla/5.0 \(compatible; Detectify\)) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 440.02 Td
+(+https://detectify.com/bot/aba7f2d6943512ed8fa1898f9475c2b3dbe269a9) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 424.02 Td
+(Sec-Fetch-Mode) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 424.02 Td
+(navigate) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 408.02 Td
+(Accept) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 408.02 Td
+(text/html,application/xhtml+xml,application/xml; q=0.9,image/webp,*/*; q=0.8) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 392.02 Td
+(Sec-Fetch-Site) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 392.02 Td
+(same-origin) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 376.02 Td
+(Sec-Fetch-User) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 376.02 Td
+(?1) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 360.02 Td
+(Accept-Encoding) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 360.02 Td
+(gzip, deflate, br) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 344.02 Td
+(Accept-Language) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 344.02 Td
+(en-US) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 328.02 Td
+(Host) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 328.02 Td
+(portal.comensure.com) Tj
+ET
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 293.09 Td
+(Response Headers) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 263.76 Td
+(HTTP/0.0 400 Bad Request) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 241.09 Td
+(Content-Length) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 241.09 Td
+(3798) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 225.09 Td
+(Connection) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 225.09 Td
+(keep-alive) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 209.09 Td
+(Date) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 209.09 Td
+(Tue, 12 Oct 2021 13:56:55 GMT) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 193.09 Td
+(Content-Type) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 193.09 Td
+(text/html; charset=utf-8) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 177.09 Td
+(Access-Control-Allow-Cred) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 161.09 Td
+(entials) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 177.09 Td
+(true) Tj
+ET
+endstream
+endobj
+39 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 40 0 R
+>>
+endobj
+40 0 obj
+<<
+/Length 3985
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+530.95 20.00 Td
+(17) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 779.22 Td
+(Set-Cookie) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 779.22 Td
+(ApplicationGatewayAffinityCORS=c657355de02ba9e252f546fd1fefbc81; Path=/;) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 763.22 Td
+(SameSite=None; Secure,) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 747.22 Td
+(ApplicationGatewayAffinity=c657355de02ba9e252f546fd1fefbc81; Path=/) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 731.22 Td
+(Cache-Control) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 731.22 Td
+(private) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 715.22 Td
+(Access-Control-Allow-Meth) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 699.22 Td
+(ods) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 715.22 Td
+(GET,POST,PUT,DELETE,OPTIONS) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 683.22 Td
+(Server) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 683.22 Td
+(Microsoft-IIS/10.0) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 667.22 Td
+(X-Aspnet-Version) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 667.22 Td
+(4.0.30319) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 651.22 Td
+(X-Powered-By) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 651.22 Td
+(ASP.NET) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 635.22 Td
+(Content-Security-Policy) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 635.22 Td
+(frame-src http://23.99.140.10 http://23.99.140.10/trusted) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 619.22 Td
+(https://tableau.comensure.com http://tableau.comensure.com http://localhost:59779) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 603.22 Td
+(https://style1.comensure.com/ http://style1.comensure.com/ https://*.tableau.com;) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 587.22 Td
+(worker-src https://*.comensure.com http://*.comensure.com blob:) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 571.22 Td
+(Content-Security-Policy-Re) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 555.22 Td
+(port-Only) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 571.22 Td
+(frame-src http://localhost http://localhost:59779 http://23.99.140.10) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 555.22 Td
+(http://23.99.140.10/trusted https://tableau.comensure.com) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 539.22 Td
+(https://style1.comensure.com/ http://style1.comensure.com/ https://*.tableau.com) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 523.22 Td
+(http://tableau.comensure.com; worker-src 'self' http://localhost:*) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 507.22 Td
+(http://*.comensure.com  https://*.comensure.com data: gap: blob:; script-src) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 491.22 Td
+(http://23.99.140.10 http://23.99.140.10 'self' http://localhost:*) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 475.22 Td
+(http://*.comensure.com https://*.comensure.com https://*.tableau.com) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 459.22 Td
+('unsafe-inline' 'unsafe-eval') Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 443.22 Td
+(Access-Control-Allow-Origi) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 427.22 Td
+(n) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 443.22 Td
+(http://localhost http://localhost:59779 http://23.99.140.10/) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 427.22 Td
+(http://23.99.140.10/trusted) Tj
+ET
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 392.29 Td
+(References) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 362.96 Td
+(OWASP - Improper Error Handling) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 362.96 Td
+(https://owasp.org/www-community/Improper_Error_Handling) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 346.96 Td
+(MICROSOFT - ASP.NET Error Handling) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 346.96 Td
+(https://docs.microsoft.com/en-us/aspnet/web-forms/overview/getting) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 330.96 Td
+(-started/getting-started-with-aspnet-45-web-forms/aspnet-error-hand) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 314.96 Td
+(ling) Tj
+ET
+endstream
+endobj
+41 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 42 0 R
+>>
+endobj
+42 0 obj
+<<
+/Length 3923
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+530.95 20.00 Td
+(18) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+0.67 0.85 0.60 rg
+555.28 780.56 m 555.28 789.39 548.12 796.56 539.28 796.56 c
+530.44 796.56 523.28 789.39 523.28 780.56 c
+523.28 771.72 530.44 764.56 539.28 764.56 c
+548.12 764.56 555.28 771.72 555.28 780.56 c
+f
+BT
+/F2 18 Tf
+18.00 TL
+0.200 g
+40.00 771.76 Td
+(6.2 ASP.NET Error Message) Tj
+ET
+0.67 0.85 0.60 rg
+40.00 738.42 515.28 -2.67 re
+f
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 694.16 Td
+(Summary) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+46.67 662.96 Td
+(Found at) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+373.33 662.96 Td
+(CVSS Score) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 644.82 Td
+(https://portal.comensure.com/Content/foo%60%3C%25%22) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 628.82 Td
+(%27%7B$%2A%25%5C) Tj
+ET
+BT
+/F2 15 Tf
+15.00 TL
+0.675 0.851 0.600 rg
+373.33 640.16 Td
+(0) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+46.67 604.29 Td
+(Request URL) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 581.62 Td
+(https://portal.comensure.com/Content/foo%60%3C%25%22%27%7B$%2A%25%5C) Tj
+ET
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 540.02 Td
+(Request Headers) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 510.69 Td
+(GET /Content/foo%60%3C%25%22%27%7B$%2A%25%5C HTTP/1.1) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 488.02 Td
+(Sec-Fetch-User) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 488.02 Td
+(?1) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 472.02 Td
+(Accept) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 472.02 Td
+(text/html,application/xhtml+xml,application/xml; q=0.9,image/webp,*/*; q=0.8) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 456.02 Td
+(Sec-Fetch-Mode) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 456.02 Td
+(navigate) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 440.02 Td
+(Sec-Fetch-Dest) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 440.02 Td
+(document) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 424.02 Td
+(Upgrade-Insecure-Requests) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 424.02 Td
+(1) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 408.02 Td
+(User-Agent) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 408.02 Td
+(Mozilla/5.0 \(compatible; Detectify\)) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 392.02 Td
+(+https://detectify.com/bot/aba7f2d6943512ed8fa1898f9475c2b3dbe269a9) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 376.02 Td
+(Sec-Fetch-Site) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 376.02 Td
+(same-origin) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 360.02 Td
+(Accept-Language) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 360.02 Td
+(en-US) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 344.02 Td
+(Accept-Encoding) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 344.02 Td
+(gzip, deflate, br) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 328.02 Td
+(Host) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 328.02 Td
+(portal.comensure.com) Tj
+ET
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 293.09 Td
+(Response Headers) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 263.76 Td
+(HTTP/0.0 400 Bad Request) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 241.09 Td
+(Date) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 241.09 Td
+(Tue, 12 Oct 2021 13:40:42 GMT) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 225.09 Td
+(Access-Control-Allow-Meth) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 209.09 Td
+(ods) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 225.09 Td
+(GET,POST,PUT,DELETE,OPTIONS) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 193.09 Td
+(Content-Length) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 193.09 Td
+(3798) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 177.09 Td
+(Connection) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 177.09 Td
+(keep-alive) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 161.09 Td
+(Cache-Control) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 161.09 Td
+(private) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 145.09 Td
+(X-Aspnet-Version) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 145.09 Td
+(4.0.30319) Tj
+ET
+endstream
+endobj
+43 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 44 0 R
+>>
+endobj
+44 0 obj
+<<
+/Length 3846
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+530.95 20.00 Td
+(19) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 779.22 Td
+(Access-Control-Allow-Origi) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 763.22 Td
+(n) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 779.22 Td
+(http://localhost http://localhost:59779 http://23.99.140.10/) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 763.22 Td
+(http://23.99.140.10/trusted) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 747.22 Td
+(Content-Type) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 747.22 Td
+(text/html; charset=utf-8) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 731.22 Td
+(Set-Cookie) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 731.22 Td
+(ApplicationGatewayAffinityCORS=c657355de02ba9e252f546fd1fefbc81; Path=/;) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 715.22 Td
+(SameSite=None; Secure,) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 699.22 Td
+(ApplicationGatewayAffinity=c657355de02ba9e252f546fd1fefbc81; Path=/) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 683.22 Td
+(Content-Security-Policy-Re) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 667.22 Td
+(port-Only) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 683.22 Td
+(frame-src http://localhost http://localhost:59779 http://23.99.140.10) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 667.22 Td
+(http://23.99.140.10/trusted https://tableau.comensure.com) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 651.22 Td
+(https://style1.comensure.com/ http://style1.comensure.com/ https://*.tableau.com) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 635.22 Td
+(http://tableau.comensure.com; worker-src 'self' http://localhost:*) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 619.22 Td
+(http://*.comensure.com  https://*.comensure.com data: gap: blob:; script-src) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 603.22 Td
+(http://23.99.140.10 http://23.99.140.10 'self' http://localhost:*) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 587.22 Td
+(http://*.comensure.com https://*.comensure.com https://*.tableau.com) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 571.22 Td
+('unsafe-inline' 'unsafe-eval') Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 555.22 Td
+(Access-Control-Allow-Cred) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 539.22 Td
+(entials) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 555.22 Td
+(true) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 523.22 Td
+(Server) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 523.22 Td
+(Microsoft-IIS/10.0) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 507.22 Td
+(X-Powered-By) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 507.22 Td
+(ASP.NET) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 491.22 Td
+(Content-Security-Policy) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 491.22 Td
+(frame-src http://23.99.140.10 http://23.99.140.10/trusted) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 475.22 Td
+(https://tableau.comensure.com http://tableau.comensure.com http://localhost:59779) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 459.22 Td
+(https://style1.comensure.com/ http://style1.comensure.com/ https://*.tableau.com;) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 443.22 Td
+(worker-src https://*.comensure.com http://*.comensure.com blob:) Tj
+ET
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 408.29 Td
+(References) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 378.96 Td
+(OWASP - Improper Error Handling) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 378.96 Td
+(https://owasp.org/www-community/Improper_Error_Handling) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 362.96 Td
+(MICROSOFT - ASP.NET Error Handling) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 362.96 Td
+(https://docs.microsoft.com/en-us/aspnet/web-forms/overview/getting) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 346.96 Td
+(-started/getting-started-with-aspnet-45-web-forms/aspnet-error-hand) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 330.96 Td
+(ling) Tj
+ET
+endstream
+endobj
+45 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 46 0 R
+>>
+endobj
+46 0 obj
+<<
+/Length 4110
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+530.95 20.00 Td
+(20) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+0.67 0.85 0.60 rg
+555.28 780.56 m 555.28 789.39 548.12 796.56 539.28 796.56 c
+530.44 796.56 523.28 789.39 523.28 780.56 c
+523.28 771.72 530.44 764.56 539.28 764.56 c
+548.12 764.56 555.28 771.72 555.28 780.56 c
+f
+BT
+/F2 18 Tf
+18.00 TL
+0.200 g
+40.00 771.76 Td
+(6.3 ASP.NET Error Message) Tj
+ET
+0.67 0.85 0.60 rg
+40.00 738.42 515.28 -2.67 re
+f
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 694.16 Td
+(Summary) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+46.67 662.96 Td
+(Found at) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+373.33 662.96 Td
+(CVSS Score) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 644.82 Td
+(https://portal.comensure.com/foo%60%3C%25%22%27%7) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 628.82 Td
+(B$%2A%25%5C) Tj
+ET
+BT
+/F2 15 Tf
+15.00 TL
+0.675 0.851 0.600 rg
+373.33 640.16 Td
+(0) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+46.67 604.29 Td
+(Request URL) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 581.62 Td
+(https://portal.comensure.com/foo%60%3C%25%22%27%7B$%2A%25%5C) Tj
+ET
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 540.02 Td
+(Request Headers) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 510.69 Td
+(GET /foo%60%3C%25%22%27%7B$%2A%25%5C HTTP/1.1) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 488.02 Td
+(Accept-Language) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 488.02 Td
+(en-US) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 472.02 Td
+(User-Agent) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 472.02 Td
+(Mozilla/5.0 \(compatible; Detectify\)) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 456.02 Td
+(+https://detectify.com/bot/aba7f2d6943512ed8fa1898f9475c2b3dbe269a9) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 440.02 Td
+(Upgrade-Insecure-Requests) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 440.02 Td
+(1) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 424.02 Td
+(Sec-Fetch-Site) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 424.02 Td
+(same-origin) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 408.02 Td
+(Sec-Fetch-User) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 408.02 Td
+(?1) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 392.02 Td
+(Accept-Encoding) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 392.02 Td
+(gzip, deflate, br) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 376.02 Td
+(Sec-Fetch-Dest) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 376.02 Td
+(document) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 360.02 Td
+(Sec-Fetch-Mode) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 360.02 Td
+(navigate) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 344.02 Td
+(Accept) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 344.02 Td
+(text/html,application/xhtml+xml,application/xml; q=0.9,image/webp,*/*; q=0.8) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 328.02 Td
+(Host) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 328.02 Td
+(portal.comensure.com) Tj
+ET
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 293.09 Td
+(Response Headers) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 263.76 Td
+(HTTP/0.0 400 Bad Request) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 241.09 Td
+(Content-Security-Policy-Re) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 225.09 Td
+(port-Only) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 241.09 Td
+(frame-src http://localhost http://localhost:59779 http://23.99.140.10) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 225.09 Td
+(http://23.99.140.10/trusted https://tableau.comensure.com) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 209.09 Td
+(https://style1.comensure.com/ http://style1.comensure.com/ https://*.tableau.com) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 193.09 Td
+(http://tableau.comensure.com; worker-src 'self' http://localhost:*) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 177.09 Td
+(http://*.comensure.com  https://*.comensure.com data: gap: blob:; script-src) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 161.09 Td
+(http://23.99.140.10 http://23.99.140.10 'self' http://localhost:*) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 145.09 Td
+(http://*.comensure.com https://*.comensure.com https://*.tableau.com) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 129.09 Td
+('unsafe-inline' 'unsafe-eval') Tj
+ET
+endstream
+endobj
+47 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 48 0 R
+>>
+endobj
+48 0 obj
+<<
+/Length 3635
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+530.95 20.00 Td
+(21) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 779.22 Td
+(X-Aspnet-Version) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 779.22 Td
+(4.0.30319) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 763.22 Td
+(X-Powered-By) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 763.22 Td
+(ASP.NET) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 747.22 Td
+(Content-Security-Policy) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 747.22 Td
+(frame-src http://23.99.140.10 http://23.99.140.10/trusted) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 731.22 Td
+(https://tableau.comensure.com http://tableau.comensure.com http://localhost:59779) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 715.22 Td
+(https://style1.comensure.com/ http://style1.comensure.com/ https://*.tableau.com;) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 699.22 Td
+(worker-src https://*.comensure.com http://*.comensure.com blob:) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 683.22 Td
+(Connection) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 683.22 Td
+(keep-alive) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 667.22 Td
+(Access-Control-Allow-Origi) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 651.22 Td
+(n) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 667.22 Td
+(http://localhost http://localhost:59779 http://23.99.140.10/) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 651.22 Td
+(http://23.99.140.10/trusted) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 635.22 Td
+(Set-Cookie) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 635.22 Td
+(ApplicationGatewayAffinityCORS=2f0302523fbb62ebce3be04a0f58edff; Path=/;) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 619.22 Td
+(SameSite=None; Secure,) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 603.22 Td
+(ApplicationGatewayAffinity=2f0302523fbb62ebce3be04a0f58edff; Path=/) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 587.22 Td
+(Access-Control-Allow-Meth) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 571.22 Td
+(ods) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 587.22 Td
+(GET,POST,PUT,DELETE,OPTIONS) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 555.22 Td
+(Cache-Control) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 555.22 Td
+(private) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 539.22 Td
+(Server) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 539.22 Td
+(Microsoft-IIS/10.0) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 523.22 Td
+(Access-Control-Allow-Cred) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 507.22 Td
+(entials) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 523.22 Td
+(true) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 491.22 Td
+(Date) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 491.22 Td
+(Tue, 12 Oct 2021 13:11:10 GMT) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 475.22 Td
+(Content-Type) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 475.22 Td
+(text/html; charset=utf-8) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 459.22 Td
+(Content-Length) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 459.22 Td
+(3798) Tj
+ET
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 424.29 Td
+(References) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 394.96 Td
+(OWASP - Improper Error Handling) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 394.96 Td
+(https://owasp.org/www-community/Improper_Error_Handling) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 378.96 Td
+(MICROSOFT - ASP.NET Error Handling) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 378.96 Td
+(https://docs.microsoft.com/en-us/aspnet/web-forms/overview/getting) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 362.96 Td
+(-started/getting-started-with-aspnet-45-web-forms/aspnet-error-hand) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 346.96 Td
+(ling) Tj
+ET
+endstream
+endobj
+49 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 50 0 R
+>>
+endobj
+50 0 obj
+<<
+/Length 1282
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+530.95 20.00 Td
+(22) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+0.67 0.85 0.60 rg
+555.28 780.56 m 555.28 789.39 548.12 796.56 539.28 796.56 c
+530.44 796.56 523.28 789.39 523.28 780.56 c
+523.28 771.72 530.44 764.56 539.28 764.56 c
+548.12 764.56 555.28 771.72 555.28 780.56 c
+f
+BT
+/F2 18 Tf
+18.00 TL
+0.200 g
+40.00 771.76 Td
+(7 Invalid Header Value) Tj
+ET
+0.67 0.85 0.60 rg
+40.00 738.42 515.28 -2.67 re
+f
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 694.16 Td
+(Summary) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 662.96 Td
+(What does this mean?) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 642.96 Td
+(Browsers may interpret this in different ways, and may open up for undefined behaviors.) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 618.42 Td
+(What can happen?) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 598.42 Td
+(The header contain an undefined policy.) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 573.89 Td
+(Found at) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+473.33 573.89 Td
+(CVSS Score) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 551.22 Td
+(7.1) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+73.33 551.22 Td
+(https://portal.comensure.com/) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.675 0.851 0.600 rg
+475.28 551.22 Td
+(0) Tj
+ET
+endstream
+endobj
+51 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 52 0 R
+>>
+endobj
+52 0 obj
+<<
+/Length 3783
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+530.95 20.00 Td
+(23) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+0.67 0.85 0.60 rg
+555.28 780.56 m 555.28 789.39 548.12 796.56 539.28 796.56 c
+530.44 796.56 523.28 789.39 523.28 780.56 c
+523.28 771.72 530.44 764.56 539.28 764.56 c
+548.12 764.56 555.28 771.72 555.28 780.56 c
+f
+BT
+/F2 18 Tf
+18.00 TL
+0.200 g
+40.00 771.76 Td
+(7.1 Access-Control-Allow-Origin / Invalid Directive) Tj
+ET
+0.67 0.85 0.60 rg
+40.00 738.42 515.28 -2.67 re
+f
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 694.16 Td
+(Summary) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+46.67 662.96 Td
+(Found at) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+373.33 662.96 Td
+(CVSS Score) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 644.82 Td
+(https://portal.comensure.com/) Tj
+ET
+BT
+/F2 15 Tf
+15.00 TL
+0.675 0.851 0.600 rg
+373.33 640.16 Td
+(0) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+46.67 616.29 Td
+(Request URL) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 593.62 Td
+(https://portal.comensure.com/) Tj
+ET
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 552.02 Td
+(Request Headers) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 522.69 Td
+(GET / HTTP/1.1) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 500.02 Td
+(Origin) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 500.02 Td
+(https://pentest.detectify.com) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 484.02 Td
+(Referer) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 484.02 Td
+(https://pentest.detectify.com/) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 468.02 Td
+(Accept) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 468.02 Td
+(text/html,application/xhtml+xml,application/xml; q=0.9,image/webp,*/*; q=0.8) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 452.02 Td
+(User-Agent) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 452.02 Td
+(Mozilla/5.0 \(compatible; Detectify\)) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 436.02 Td
+(+https://detectify.com/bot/aba7f2d6943512ed8fa1898f9475c2b3dbe269a9) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 420.02 Td
+(Host) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 420.02 Td
+(portal.comensure.com) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 404.02 Td
+(Cookie) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 404.02 Td
+(ApplicationGatewayAffinityCORS=2f0302523fbb62ebce3be04a0f58edff;) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 388.02 Td
+(ApplicationGatewayAffinity=2f0302523fbb62ebce3be04a0f58edff) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 372.02 Td
+(Cache-Control) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 372.02 Td
+(no-store, no-cache) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 356.02 Td
+(Pragma) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 356.02 Td
+(no-cache) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 340.02 Td
+(Accept-Encoding) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 340.02 Td
+(gzip, deflate) Tj
+ET
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 305.09 Td
+(Response Headers) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 275.76 Td
+(HTTP/1.1 302 Found) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 253.09 Td
+(Connection) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 253.09 Td
+(keep-alive) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 237.09 Td
+(X-AspNetMvc-Version) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 237.09 Td
+(5.2) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 221.09 Td
+(Content-Security-Policy) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 221.09 Td
+(frame-src http://23.99.140.10 http://23.99.140.10/trusted) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 205.09 Td
+(https://tableau.comensure.com http://tableau.comensure.com http://localhost:59779) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 189.09 Td
+(https://style1.comensure.com/ http://style1.comensure.com/ https://*.tableau.com;) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 173.09 Td
+(worker-src https://*.comensure.com http://*.comensure.com blob:) Tj
+ET
+endstream
+endobj
+53 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 54 0 R
+>>
+endobj
+54 0 obj
+<<
+/Length 3720
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+530.95 20.00 Td
+(24) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 779.22 Td
+(Content-Security-Policy-Re) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 763.22 Td
+(port-Only) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 779.22 Td
+(frame-src http://localhost http://localhost:59779 http://23.99.140.10) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 763.22 Td
+(http://23.99.140.10/trusted https://tableau.comensure.com) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 747.22 Td
+(https://style1.comensure.com/ http://style1.comensure.com/ https://*.tableau.com) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 731.22 Td
+(http://tableau.comensure.com; worker-src 'self' http://localhost:*) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 715.22 Td
+(http://*.comensure.com  https://*.comensure.com data: gap: blob:; script-src) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 699.22 Td
+(http://23.99.140.10 http://23.99.140.10 'self' http://localhost:*) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 683.22 Td
+(http://*.comensure.com https://*.comensure.com https://*.tableau.com) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 667.22 Td
+('unsafe-inline' 'unsafe-eval') Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 651.22 Td
+(Access-Control-Allow-Origi) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 635.22 Td
+(n) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 651.22 Td
+(http://localhost http://localhost:59779 http://23.99.140.10/) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 635.22 Td
+(http://23.99.140.10/trusted) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 619.22 Td
+(Access-Control-Allow-Meth) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 603.22 Td
+(ods) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 619.22 Td
+(GET,POST,PUT,DELETE,OPTIONS) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 587.22 Td
+(Access-Control-Allow-Cred) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 571.22 Td
+(entials) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 587.22 Td
+(true) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 555.22 Td
+(Content-Length) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 555.22 Td
+(156) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 539.22 Td
+(Cache-Control) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 539.22 Td
+(private, s-maxage=0) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 523.22 Td
+(Content-Type) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 523.22 Td
+(text/html; charset=utf-8) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 507.22 Td
+(Date) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 507.22 Td
+(Tue, 12 Oct 2021 12:51:25 GMT) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 491.22 Td
+(Location) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 491.22 Td
+(http://portal.comensure.com/Home/Login/) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 475.22 Td
+(Server) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 475.22 Td
+(Microsoft-IIS/10.0) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 459.22 Td
+(X-AspNet-Version) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 459.22 Td
+(4.0.30319) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 443.22 Td
+(X-Powered-By) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+186.67 443.22 Td
+(ASP.NET) Tj
+ET
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 408.29 Td
+(References) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 378.96 Td
+(MOZILLA - Cross-Origin Resource) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 362.96 Td
+(Sharing \(CORS\)) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 378.96 Td
+(https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 346.96 Td
+(MISC - I want to add CORS support to my) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 330.96 Td
+(server) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 346.96 Td
+(https://enable-cors.org/server.html) Tj
+ET
+endstream
+endobj
+55 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 56 0 R
+>>
+endobj
+56 0 obj
+<<
+/Length 2322
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+530.95 20.00 Td
+(25) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+0.67 0.85 0.60 rg
+555.28 780.56 m 555.28 789.39 548.12 796.56 539.28 796.56 c
+530.44 796.56 523.28 789.39 523.28 780.56 c
+523.28 771.72 530.44 764.56 539.28 764.56 c
+548.12 764.56 555.28 771.72 555.28 780.56 c
+f
+BT
+/F2 18 Tf
+18.00 TL
+0.200 g
+40.00 771.76 Td
+(8 HTML Comments) Tj
+ET
+0.67 0.85 0.60 rg
+40.00 738.42 515.28 -2.67 re
+f
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 694.16 Td
+(Summary) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 662.96 Td
+(What does this mean?) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 642.96 Td
+(The snippets of code within comments will remain inactive until you remove the comment brackets. The comments) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 626.96 Td
+(might also contain sensitive information not meant for the public.) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 602.42 Td
+(What can happen?) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 582.42 Td
+(HTML comments, used to store temporary code written by the developers, are visible to the public. Read more at our) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 566.42 Td
+([https://support.detectify.com/support/solutions/articles/48001048959-html-comments|knowledge base].) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 541.89 Td
+(Found at) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+473.33 541.89 Td
+(CVSS Score) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 519.22 Td
+(8.1) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+73.33 519.22 Td
+(https://portal.comensure.com/bin/) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.675 0.851 0.600 rg
+475.28 519.22 Td
+(0) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 503.22 Td
+(8.2) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+73.33 503.22 Td
+(https://portal.comensure.com/Home/ForgotPassword) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.675 0.851 0.600 rg
+475.28 503.22 Td
+(0) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 487.22 Td
+(8.3) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+73.33 487.22 Td
+(https://portal.comensure.com/g,vu=new) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.675 0.851 0.600 rg
+475.28 487.22 Td
+(0) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 471.22 Td
+(8.4) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+73.33 471.22 Td
+(https://portal.comensure.com/%3f.jsp) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.675 0.851 0.600 rg
+475.28 471.22 Td
+(0) Tj
+ET
+endstream
+endobj
+57 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 58 0 R
+>>
+endobj
+58 0 obj
+<<
+/Length 1428
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+530.95 20.00 Td
+(26) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+0.67 0.85 0.60 rg
+555.28 780.56 m 555.28 789.39 548.12 796.56 539.28 796.56 c
+530.44 796.56 523.28 789.39 523.28 780.56 c
+523.28 771.72 530.44 764.56 539.28 764.56 c
+548.12 764.56 555.28 771.72 555.28 780.56 c
+f
+BT
+/F2 18 Tf
+18.00 TL
+0.200 g
+40.00 771.76 Td
+(8.1 HTML Comments) Tj
+ET
+0.67 0.85 0.60 rg
+40.00 738.42 515.28 -2.67 re
+f
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 694.16 Td
+(Summary) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+46.67 662.96 Td
+(Found at) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+373.33 662.96 Td
+(CVSS Score) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 644.82 Td
+(https://portal.comensure.com/bin/) Tj
+ET
+BT
+/F2 15 Tf
+15.00 TL
+0.675 0.851 0.600 rg
+373.33 640.16 Td
+(0) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+46.67 616.29 Td
+(Request URL) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 593.62 Td
+(https://portal.comensure.com/bin/) Tj
+ET
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 552.02 Td
+(References) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 522.69 Td
+(DETECTIFY - Detectify Support Center -) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 506.69 Td
+(HTML Comments) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 522.69 Td
+(https://support.detectify.com/support/solutions/articles/48001048959) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 506.69 Td
+(-html-comments) Tj
+ET
+endstream
+endobj
+59 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 60 0 R
+>>
+endobj
+60 0 obj
+<<
+/Length 1458
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+530.95 20.00 Td
+(27) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+0.67 0.85 0.60 rg
+555.28 780.56 m 555.28 789.39 548.12 796.56 539.28 796.56 c
+530.44 796.56 523.28 789.39 523.28 780.56 c
+523.28 771.72 530.44 764.56 539.28 764.56 c
+548.12 764.56 555.28 771.72 555.28 780.56 c
+f
+BT
+/F2 18 Tf
+18.00 TL
+0.200 g
+40.00 771.76 Td
+(8.2 HTML Comments) Tj
+ET
+0.67 0.85 0.60 rg
+40.00 738.42 515.28 -2.67 re
+f
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 694.16 Td
+(Summary) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+46.67 662.96 Td
+(Found at) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+373.33 662.96 Td
+(CVSS Score) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 644.82 Td
+(https://portal.comensure.com/Home/ForgotPassword) Tj
+ET
+BT
+/F2 15 Tf
+15.00 TL
+0.675 0.851 0.600 rg
+373.33 640.16 Td
+(0) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+46.67 616.29 Td
+(Request URL) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 593.62 Td
+(https://portal.comensure.com/Home/ForgotPassword) Tj
+ET
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 552.02 Td
+(References) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 522.69 Td
+(DETECTIFY - Detectify Support Center -) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 506.69 Td
+(HTML Comments) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 522.69 Td
+(https://support.detectify.com/support/solutions/articles/48001048959) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 506.69 Td
+(-html-comments) Tj
+ET
+endstream
+endobj
+61 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 62 0 R
+>>
+endobj
+62 0 obj
+<<
+/Length 1436
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+530.95 20.00 Td
+(28) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+0.67 0.85 0.60 rg
+555.28 780.56 m 555.28 789.39 548.12 796.56 539.28 796.56 c
+530.44 796.56 523.28 789.39 523.28 780.56 c
+523.28 771.72 530.44 764.56 539.28 764.56 c
+548.12 764.56 555.28 771.72 555.28 780.56 c
+f
+BT
+/F2 18 Tf
+18.00 TL
+0.200 g
+40.00 771.76 Td
+(8.3 HTML Comments) Tj
+ET
+0.67 0.85 0.60 rg
+40.00 738.42 515.28 -2.67 re
+f
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 694.16 Td
+(Summary) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+46.67 662.96 Td
+(Found at) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+373.33 662.96 Td
+(CVSS Score) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 644.82 Td
+(https://portal.comensure.com/g,vu=new) Tj
+ET
+BT
+/F2 15 Tf
+15.00 TL
+0.675 0.851 0.600 rg
+373.33 640.16 Td
+(0) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+46.67 616.29 Td
+(Request URL) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 593.62 Td
+(https://portal.comensure.com/g,vu=new) Tj
+ET
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 552.02 Td
+(References) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 522.69 Td
+(DETECTIFY - Detectify Support Center -) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 506.69 Td
+(HTML Comments) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 522.69 Td
+(https://support.detectify.com/support/solutions/articles/48001048959) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 506.69 Td
+(-html-comments) Tj
+ET
+endstream
+endobj
+63 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 64 0 R
+>>
+endobj
+64 0 obj
+<<
+/Length 1434
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+530.95 20.00 Td
+(29) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+0.67 0.85 0.60 rg
+555.28 780.56 m 555.28 789.39 548.12 796.56 539.28 796.56 c
+530.44 796.56 523.28 789.39 523.28 780.56 c
+523.28 771.72 530.44 764.56 539.28 764.56 c
+548.12 764.56 555.28 771.72 555.28 780.56 c
+f
+BT
+/F2 18 Tf
+18.00 TL
+0.200 g
+40.00 771.76 Td
+(8.4 HTML Comments) Tj
+ET
+0.67 0.85 0.60 rg
+40.00 738.42 515.28 -2.67 re
+f
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 694.16 Td
+(Summary) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+46.67 662.96 Td
+(Found at) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+373.33 662.96 Td
+(CVSS Score) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 644.82 Td
+(https://portal.comensure.com/%3f.jsp) Tj
+ET
+BT
+/F2 15 Tf
+15.00 TL
+0.675 0.851 0.600 rg
+373.33 640.16 Td
+(0) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+46.67 616.29 Td
+(Request URL) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 593.62 Td
+(https://portal.comensure.com/%3f.jsp) Tj
+ET
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 552.02 Td
+(References) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 522.69 Td
+(DETECTIFY - Detectify Support Center -) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 506.69 Td
+(HTML Comments) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 522.69 Td
+(https://support.detectify.com/support/solutions/articles/48001048959) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 506.69 Td
+(-html-comments) Tj
+ET
+endstream
+endobj
+65 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 66 0 R
+>>
+endobj
+66 0 obj
+<<
+/Length 1428
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+530.95 20.00 Td
+(30) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+0.67 0.85 0.60 rg
+555.28 780.56 m 555.28 789.39 548.12 796.56 539.28 796.56 c
+530.44 796.56 523.28 789.39 523.28 780.56 c
+523.28 771.72 530.44 764.56 539.28 764.56 c
+548.12 764.56 555.28 771.72 555.28 780.56 c
+f
+BT
+/F2 18 Tf
+18.00 TL
+0.200 g
+40.00 771.76 Td
+(9 Discovered Host\(s\)) Tj
+ET
+0.67 0.85 0.60 rg
+40.00 738.42 515.28 -2.67 re
+f
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 694.16 Td
+(Summary) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 662.96 Td
+(What can happen?) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 642.96 Td
+(Detectify has found the following hosts. This is in no way a vulnerability, but should be considered an indicator for) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 626.96 Td
+(what has been covered. ) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 610.96 Td
+() Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 594.96 Td
+(Read more [https://support.detectify.com/support/solutions/articles/48001048970-discovered-endpoint|here].) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 570.42 Td
+(Found at) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+473.33 570.42 Td
+(CVSS Score) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 547.76 Td
+(9.1) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+73.33 547.76 Td
+(portal.comensure.com) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.675 0.851 0.600 rg
+475.28 547.76 Td
+(0) Tj
+ET
+endstream
+endobj
+67 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 68 0 R
+>>
+endobj
+68 0 obj
+<<
+/Length 3033
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+530.95 20.00 Td
+(31) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+0.67 0.85 0.60 rg
+555.28 780.56 m 555.28 789.39 548.12 796.56 539.28 796.56 c
+530.44 796.56 523.28 789.39 523.28 780.56 c
+523.28 771.72 530.44 764.56 539.28 764.56 c
+548.12 764.56 555.28 771.72 555.28 780.56 c
+f
+BT
+/F2 18 Tf
+18.00 TL
+0.200 g
+40.00 771.76 Td
+(9.1 Discovered Host) Tj
+ET
+0.67 0.85 0.60 rg
+40.00 738.42 515.28 -2.67 re
+f
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 694.16 Td
+(Summary) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+46.67 662.96 Td
+(Found at) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+373.33 662.96 Td
+(CVSS Score) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 644.82 Td
+(portal.comensure.com) Tj
+ET
+BT
+/F2 15 Tf
+15.00 TL
+0.675 0.851 0.600 rg
+373.33 640.16 Td
+(0) Tj
+ET
+0.92 g
+46.67 600.82 515.28 -6.67 re
+f
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 578.16 Td
+(Detectify found and tried to access 1 domain, and have analyzed it for security flaws.) Tj
+ET
+0.92 g
+46.67 571.49 515.28 -6.67 re
+f
+0.92 g
+46.67 551.49 515.28 -6.67 re
+f
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 528.82 Td
+(portal.comensure.com:) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 512.82 Td
+(> 20.37.132.37) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 496.82 Td
+(  80/tcp http open) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 480.82 Td
+(  443/tcp https open) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 464.82 Td
+(  443/tcp http open) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 448.82 Td
+(  81/tcp closed) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 432.82 Td
+(  444/tcp closed) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 416.82 Td
+(  2181/tcp closed) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 400.82 Td
+(  2375/tcp closed) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 384.82 Td
+(  2376/tcp closed) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 368.82 Td
+(  3000/tcp closed) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 352.82 Td
+(  3001/tcp closed) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 336.82 Td
+(  3128/tcp closed) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 320.82 Td
+(  3790/tcp closed) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 304.82 Td
+(  4443/tcp closed) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 288.82 Td
+(  4444/tcp closed) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 272.82 Td
+(  4567/tcp closed) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 256.82 Td
+(  4848/tcp closed) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 240.82 Td
+(  5432/tcp closed) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 224.82 Td
+(  5858/tcp closed) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 208.82 Td
+(  5984/tcp closed) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 192.82 Td
+(  5985/tcp closed) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 176.82 Td
+(  5986/tcp closed) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 160.82 Td
+(  6443/tcp closed) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 144.82 Td
+(  7001/tcp closed) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 128.82 Td
+(  7077/tcp closed) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 112.82 Td
+(  8000/tcp closed) Tj
+ET
+endstream
+endobj
+69 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 70 0 R
+>>
+endobj
+70 0 obj
+<<
+/Length 2260
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+530.95 20.00 Td
+(32) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+53.33 788.56 Td
+(  8001/tcp closed) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+53.33 772.56 Td
+(  8009/tcp closed) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+53.33 756.56 Td
+(  8047/tcp closed) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+53.33 740.56 Td
+(  8069/tcp closed) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+53.33 724.56 Td
+(  8080/tcp closed) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+53.33 708.56 Td
+(  8081/tcp closed) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+53.33 692.56 Td
+(  8083/tcp closed) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+53.33 676.56 Td
+(  8088/tcp closed) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+53.33 660.56 Td
+(  8089/tcp closed) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+53.33 644.56 Td
+(  8100/tcp closed) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+53.33 628.56 Td
+(  8181/tcp closed) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+53.33 612.56 Td
+(  8443/tcp closed) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+53.33 596.56 Td
+(  8444/tcp closed) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+53.33 580.56 Td
+(  8500/tcp closed) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+53.33 564.56 Td
+(  8880/tcp closed) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+53.33 548.56 Td
+(  8888/tcp closed) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+53.33 532.56 Td
+(  9000/tcp closed) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+53.33 516.56 Td
+(  9001/tcp closed) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+53.33 500.56 Td
+(  9002/tcp closed) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+53.33 484.56 Td
+(  9080/tcp closed) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+53.33 468.56 Td
+(  9090/tcp closed) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+53.33 452.56 Td
+(  9418/tcp closed) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+53.33 436.56 Td
+(  9443/tcp closed) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+53.33 420.56 Td
+(  11211/tcp closed) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+53.33 404.56 Td
+(  16686/tcp closed) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+53.33 388.56 Td
+(  50000/tcp closed) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+53.33 372.56 Td
+(  50013/tcp closed) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+53.33 356.56 Td
+(  50014/tcp closed) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+53.33 340.56 Td
+() Tj
+ET
+0.92 g
+46.67 333.89 515.28 -6.67 re
+f
+endstream
+endobj
+71 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 72 0 R
+>>
+endobj
+72 0 obj
+<<
+/Length 1694
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+530.95 20.00 Td
+(33) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+0.67 0.85 0.60 rg
+555.28 780.56 m 555.28 789.39 548.12 796.56 539.28 796.56 c
+530.44 796.56 523.28 789.39 523.28 780.56 c
+523.28 771.72 530.44 764.56 539.28 764.56 c
+548.12 764.56 555.28 771.72 555.28 780.56 c
+f
+BT
+/F2 18 Tf
+18.00 TL
+0.200 g
+40.00 771.76 Td
+(10 Crawled URL's) Tj
+ET
+0.67 0.85 0.60 rg
+40.00 738.42 515.28 -2.67 re
+f
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 694.16 Td
+(Summary) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 662.96 Td
+(What does this mean?) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 642.96 Td
+(A scan might take too long due to representative content on the application. Vulnerabilities may also be missed if) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 626.96 Td
+(Detectify lack coverage in some area of the application. If you suspect Detectify can perform better, then take a look) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 610.96 Td
+(at the associated CSV.) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 586.42 Td
+(What can happen?) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 566.42 Td
+(This finding is generated for debugging purposes. A link is associated with this finding containing a CSV file with all) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 550.42 Td
+(crawled URL's.) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 525.89 Td
+(Found at) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+473.33 525.89 Td
+(CVSS Score) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 503.22 Td
+(10.1) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+73.33 503.22 Td
+(portal.comensure.com) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.675 0.851 0.600 rg
+475.28 503.22 Td
+(0) Tj
+ET
+endstream
+endobj
+73 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 74 0 R
+>>
+endobj
+74 0 obj
+<<
+/Length 1786
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+530.95 20.00 Td
+(34) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+0.67 0.85 0.60 rg
+555.28 780.56 m 555.28 789.39 548.12 796.56 539.28 796.56 c
+530.44 796.56 523.28 789.39 523.28 780.56 c
+523.28 771.72 530.44 764.56 539.28 764.56 c
+548.12 764.56 555.28 771.72 555.28 780.56 c
+f
+BT
+/F2 18 Tf
+18.00 TL
+0.200 g
+40.00 771.76 Td
+(10.1 Crawled URL's) Tj
+ET
+0.67 0.85 0.60 rg
+40.00 738.42 515.28 -2.67 re
+f
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 694.16 Td
+(Summary) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+46.67 662.96 Td
+(Found at) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+373.33 662.96 Td
+(CVSS Score) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 644.82 Td
+(portal.comensure.com) Tj
+ET
+BT
+/F2 15 Tf
+15.00 TL
+0.675 0.851 0.600 rg
+373.33 640.16 Td
+(0) Tj
+ET
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 599.22 Td
+(References) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 569.89 Td
+(DETECTIFY - Download Crawled URL's) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 553.89 Td
+(CSV) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 569.89 Td
+(https://s3-eu-west-1.amazonaws.com/dtfy.crawl/3927cc84f0c163d20) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 553.89 Td
+(314e5addd2ed737/aba7f2d6943512ed8fa1898f9475c2b3dbe269a9/) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 537.89 Td
+(790952ae-d228-4253-aa32-f18ce4b6745d/portal.comensure.com-20) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 521.89 Td
+(2110121250-crawl.csv) Tj
+ET
+0.92 g
+46.67 488.56 515.28 -6.67 re
+f
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 465.89 Td
+(Detectify tried to access 57 URL's, 18 of these were identified as unique during crawling and went through) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 449.89 Td
+(further testing.) Tj
+ET
+0.92 g
+46.67 443.22 515.28 -6.67 re
+f
+endstream
+endobj
+75 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 76 0 R
+>>
+endobj
+76 0 obj
+<<
+/Length 1545
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+530.95 20.00 Td
+(35) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+0.67 0.85 0.60 rg
+555.28 780.56 m 555.28 789.39 548.12 796.56 539.28 796.56 c
+530.44 796.56 523.28 789.39 523.28 780.56 c
+523.28 771.72 530.44 764.56 539.28 764.56 c
+548.12 764.56 555.28 771.72 555.28 780.56 c
+f
+BT
+/F2 18 Tf
+18.00 TL
+0.200 g
+40.00 771.76 Td
+(11 Service Providers) Tj
+ET
+0.67 0.85 0.60 rg
+40.00 738.42 515.28 -2.67 re
+f
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 694.16 Td
+(Summary) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 662.96 Td
+(What does this mean?) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 642.96 Td
+(Anyone can retrieve this data. It's only here to serve as an indicator of what vendors have access to.) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 618.42 Td
+(What can happen?) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 598.42 Td
+(The listed providers are authorized to host different parts of your infrastructure.) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 582.42 Td
+() Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 566.42 Td
+(Read more [https://support.detectify.com/support/solutions/articles/48001048980-service-providers|here].) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+40.00 541.89 Td
+(Found at) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+473.33 541.89 Td
+(CVSS Score) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+40.00 519.22 Td
+(11.1) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+73.33 519.22 Td
+(portal.comensure.com) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.675 0.851 0.600 rg
+475.28 519.22 Td
+(0) Tj
+ET
+endstream
+endobj
+77 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 78 0 R
+>>
+endobj
+78 0 obj
+<<
+/Length 1567
+>>
+stream
+0.27 w
+0 G
+0.45 g
+26.67 13.33 541.95 -0.67 re
+f
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+530.95 20.00 Td
+(36) Tj
+ET
+q
+56.25 0 0 15.00 40.00 18.33 cm
+/I1 Do
+Q
+0.67 0.85 0.60 rg
+555.28 780.56 m 555.28 789.39 548.12 796.56 539.28 796.56 c
+530.44 796.56 523.28 789.39 523.28 780.56 c
+523.28 771.72 530.44 764.56 539.28 764.56 c
+548.12 764.56 555.28 771.72 555.28 780.56 c
+f
+BT
+/F2 18 Tf
+18.00 TL
+0.200 g
+40.00 771.76 Td
+(11.1 Service Providers) Tj
+ET
+0.67 0.85 0.60 rg
+40.00 738.42 515.28 -2.67 re
+f
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 694.16 Td
+(Summary) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+46.67 662.96 Td
+(Found at) Tj
+ET
+BT
+/F2 12 Tf
+12.00 TL
+0.200 g
+373.33 662.96 Td
+(CVSS Score) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+46.67 644.82 Td
+(portal.comensure.com) Tj
+ET
+BT
+/F2 15 Tf
+15.00 TL
+0.675 0.851 0.600 rg
+373.33 640.16 Td
+(0) Tj
+ET
+BT
+/F2 16 Tf
+16.00 TL
+0.675 0.851 0.600 rg
+40.00 599.22 Td
+(References) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 569.89 Td
+(DETECTIFY - Detectify Support Center -) Tj
+ET
+BT
+/F2 10 Tf
+10.00 TL
+0.200 g
+46.67 553.89 Td
+(Service Providers) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 569.89 Td
+(https://support.detectify.com/support/solutions/articles/48001048980) Tj
+ET
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+253.33 553.89 Td
+(-service-providers) Tj
+ET
+0.92 g
+46.67 520.56 515.28 -6.67 re
+f
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 497.89 Td
+(ns33.domaincontrol.com) Tj
+ET
+0.92 g
+46.67 491.22 515.28 -6.67 re
+f
+0.92 g
+46.67 471.22 515.28 -6.67 re
+f
+BT
+/F1 10 Tf
+10.00 TL
+0.200 g
+53.33 448.56 Td
+(Microsoft) Tj
+ET
+0.92 g
+46.67 441.89 515.28 -6.67 re
+f
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R 61 0 R 63 0 R 65 0 R 67 0 R 69 0 R 71 0 R 73 0 R 75 0 R 77 0 R ]
+/Count 38
+>>
+endobj
+79 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+80 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+81 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+82 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+83 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+84 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+85 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+86 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+87 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+88 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+89 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+90 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+91 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+92 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+93 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 100
+/Height 103
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/DecodeParms <</Colors 3 /BitsPerComponent 8 /Columns 100>>
+/SMask 94 0 R
+/Length 30900
+>>
+stream
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿú­wú­wú­wú­wú­wú­wú­wú­wú­wú­wú­wú­wÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿú­wú­wú­wú­wú­wú­wú­wú­wú­wú­wÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿú­wú­wú­wú­wú­wú­wú­wú­wú­wú­wú­wú­wÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿú­wú­wú­wú­wú­wú­wú­wú­wú­wú­wú­wú­wÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿú­wú­wú­wú­wú­wú­wú­wú­wú­wú­wÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿú­wú­wú­wú­wú­wú­wú­wú­wú­wú­wú­wú­wÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿú¬uú­wú­wú­wú­wú­wú­wú­wú­wú­wú­wú­wÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿú­wú­wú­wú­wú­wú­wú­wú­wú­wú­wÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿú­wú­wú­wú­wú­wú­wú­wú­wú­wú­wú­wú«rÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿú¬wú¬wú¬wú¬wú¬wú¬wú¬wú¬wú¬wú¬wú¬wÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿú¬wú¬wú¬wú¬wú¬wú¬wú¬wú¬wú¬wú¬wÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿú¬wú¬wú¬wú¬wú¬wú¬wú¬wú¬wú¬wú¬wú¬wÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿú¬wú¬wú¬wú¬wú¬wú¬wú¬wú¬wú¬wú¬wú¬wÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿú¬wú¬wú¬wú¬wú¬wú¬wú¬wú¬wú¬wú¬wÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿú¬wú¬wú¬wú¬wú¬wú¬wú¬wú¬wú¬wú¬wú¬wÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿú«wú«wú«wú«wú«wú«wú«wú«wú«wú«wú«wÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿú«wú«wú«wú«wú«wú«wú«wú«wú«wú«wÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿú«wú«wú«wú«wú«wú«wú«wú«wú«wú«wú«wÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿú«wú«wú«wú«wú«wú«wú«wú«wú«wú«wú«wÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿúªvúªvúªvúªvúªvúªvúªvúªvúªvúªvÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿúªvúªvúªvúªvúªvúªvúªvúªvúªvúªvúªvÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿú©uúªvúªvúªvúªvúªvúªvúªvúªvúªvúªvÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿúªvúªvúªvúªvúªvúªvúªvúªvúªvúªvÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿúªvúªvúªvúªvúªvúªvúªvúªvúªvúªvú©tÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvùªvù©vù©vù©vù©vù©vÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vù©vÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿù©vù©vù©vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vù¨vÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿù¢kù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿù§uù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù¦tÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿù­wù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù§vù¦uù¦uù¦uù¦uù¦uù¦uù¦uù¦uù¦uù¦uù¦uù¦uù¦uù¦uù¦uù¦uù¦uù¦uù¦uù¦uù¦uù¦uù¦uù¦uù¦uù¦uù¦uØÛÛØÚÚØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù¥uù÷öíîîŞààØÚÚØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vù¥vÿùöÿÿÿÿÿÿôôôàááØÚÚØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿù¤uù¤uù¤uù¤uù¤uù¤uù¤uù¤uù¤uù¤uù¤uù¤uù¤uù¤uù¤uù¤uù¤uù¤uù¤uù¤uù¤uù¤uù¤uù¤uù¤uù¤uù¤uù¤uù¤uù¤uù¤uù¤uù¤uù¤uù¤uù¤uù£uù£uù£uù£uù£uù£uù£uù£uù£uşóîÿÿÿÿÿÿÿÿÿÿÿÿïğğÚÜÜØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿù£uù£uù£uù£uù£uù£uù£uù£uù£uù£uù£uù£uù£uù£uù£uù£uù£uù£vù£vù£vù£vù£vù£vø¢vø¢vø¢vø¢vø¢vø¢vø¢vø¢vø¢vø¢vø¢vø¢vø¢vø¢vø¢vø¢vø¢vø¢vø¢vø¢vø¢vø¢vşïêÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿúúúßààØÚÚıııÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÚÚØÚÚçÃ´ø¢vø¢vø¢vø¢vø¢vø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uø¢uşïêÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿıııâääØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÚÚØÚÚØÚÚßááèééïÖÌø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uø¡uıéáÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿşşşâããØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ×ÙÙØÚÚÚÜÜëììúûûÿÿÿÿÿÿüßÖø uø uø uø uø uø uüØÊÿú÷ÿú÷ÿú÷ÿú÷ÿú÷ÿú÷ÿú÷ÿú÷ÿú÷ÿú÷ÿú÷ÿú÷ÿú÷ÿú÷ÿú÷ÿú÷ÿú÷ÿú÷ÿú÷ÿú÷ÿú÷ÿú÷ÿú÷ÿú÷ÿú÷ÿú÷ÿú÷ÿú÷ÿú÷ÿú÷ùÒÃø uø uø uø uø uøŸuüà×ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüüüŞßßØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÚÚØÚÚåççüüüÿÿÿÿÿÿÿÿÿÿÿÿüà×øŸuøŸuøŸuøŸuøŸuøŸuüÕÇÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüûûÌÌÌ‘‘‘Z[Z\\[’“’ÍÍÍüüüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿõÎÁøŸuøŸuøŸuøŸuøŸuøŸuüà×ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿøøøÙÛÛØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÚÚØÚÚíîîÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüÚÎøŸuøŸuøŸuøŸuøŸuøŸuûÌ¼ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿğğğuvu8:88:88:88:88:88:8wxwñññÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ÷É¹øuøuøuøuøuøuüŞÔÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿëììØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÖØØØÚÚíîîÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿûÑÄøuøuøuøuøuøuùº¤ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿõõõjkj8:88:88:88:88:88:88:88:8lllöööÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿô´œøuøuøuøuøuøuüÕÈÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿıııÜŞŞØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÚÚåææÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿûÎ¿÷œu÷œu÷œu÷œu÷œu÷œuöxşüüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ««ª8:88:88:88:88:88:88:88:88:88:8®¯®ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿıûúóšt÷œu÷œu÷œu÷œu÷œu÷œuûÏÁÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿîïïØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÚÚÚÜÜûüüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿúË¼÷œu÷œu÷œu÷œu÷œu÷œu÷œuûåßÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿùùùFGF8:88:88:88:88:88:88:88:88:88:8JKIûûûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿõáÜ÷›u÷›u÷›u÷›u÷›u÷›u÷›uúÌ¾ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿıııÚÜÜØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÚÚëììÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿúÅµ÷›u÷›u÷›u÷›u÷›u÷›u÷›uö¾¬ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿããã8:88:88:88:88:88:88:88:88:88:88:88:8ççæÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿñ¹¨÷št÷št÷št÷št÷št÷št÷štúÇ·ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿæççØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÚÚúúúÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿù¾ª÷šu÷šu÷šu÷šu÷šu÷™u÷™uö˜túğíÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÖÖÖ8:88:88:88:88:88:88:88:88:88:88:88:8ÚÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ÷íêô—s÷™u÷™u÷™u÷™u÷™u÷™u÷™uúÂ²ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿòóóØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÚÚŞààÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿù´÷™u÷™u÷™u÷™u÷™u÷™u÷™u÷™uô¹§ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿèèç8:88:88:88:88:88:88:88:88:88:88:88:8ëëêÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿî´¢÷™u÷™u÷™u÷™u÷™u÷™u÷™u÷™uù¸£ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿûûûØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÚÚçèèÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿù²÷˜t÷˜t÷˜t÷˜t÷˜t÷˜t÷˜t÷˜t÷˜tõÛÔÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ\]\8:88:88:88:88:88:88:88:88:88:8abaÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿğÖÏõ—t÷˜u÷˜u÷˜uö—uö—uö—uö—uö—uø±œÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÚÜÜØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÚÚêëëÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿø¯™ö–tö–tö–tö–tö–tö–tö–tö–tö–tóš{øëèÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÁÁÁ8:88:88:88:88:88:88:88:88:88:8ÆÆÆÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿõéçñ–xö–tö–tö–tö–tö–tö–tö–tö–tö–tø±ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿáââØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÚÚìííÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ÷Ÿö–tö•tö•tö•tö•tö•tö•tö•tö•tö•tñœ÷íêÿÿÿÿÿÿÿÿÿÿÿÿıüü8:88:88:88:88:88:88:88:8’’‘şşşÿÿÿÿÿÿÿÿÿÿÿÿöëéî˜}ö•tö•tö•tö•tö•tö•tö•tö•tö•tö”t÷¦ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿâãäØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÚÚéêëÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿşşşö“tö“tö“tö“tö“tö“tö“tö“tö“tö“tö“tö“tğ˜}õäàÿÿÿÿÿÿÿÿÿÿÿÿûûû«««7978:88:88:88:8797°°¯ûûûÿÿÿÿÿÿÿÿÿÿÿÿòâŞî–{ö“tö“tö“tö“tö“tö“tö“tö“tö“tö“tö“tö–wşşşÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿäææØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÚÚåççÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿúüüö’tö’tö’tö’tö’tö’tö’tö’tö’tö’tö’tö’tö’tòrîÅ½üúùÿÿÿÿÿÿÿÿÿÿÿÿììì¾¾¾ªªªªªª¿¿¿îîîÿÿÿÿÿÿÿÿÿÿÿÿüùùëÃºñqö’tö’tö’tö’tö’tö’tö‘tö‘tö‘tö‘tö‘tö‘tö‘túûûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿâääØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÚÚÜŞŞÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿøõôö‘sö‘sö‘sö‘sö‘sö‘sö‘sö‘sö‘sö‘sö‘sö‘sö‘sö‘sö‘sí˜îĞÊûø÷ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿû÷öìÎÈé•ö‘sö‘sö‘sö‘sö‘sö‘sõsõsõsõsõsõsõsõsõs÷÷÷ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿğğğİßßØÚÚØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÚÚØÚÚ÷÷÷ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿõëêõsõsõsõsõsõsõsõsõsõsõsõsõsõsõsõsõsìŒsì´©íÑÌòæäøñïşüüşüüøñïòæäìÑËê³¨êŠqõsõsõsõsõsõsõsõsõsõsõsõsõsõsõsõsõsóíëÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿóôôßááØÚÚØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÚÚØÚÚØÚÚØÚÚŞààáããñññÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿòäâõsõsõsõsõsõsõsõsõsõsõsõsõsõsõsõsõsõsõsõsôrì‰pìˆoìˆoì‰pórõsõsõsõsõsõsõsõsõsõsõsõsõsõsõsõsõsõsõsõsğåãÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿïğğÚÜÜØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÚÚØÚÚÜİİêëëõõõıııÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿıışğàŞõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrõŒrğáßûûüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿùúúŞààØÚÚşşşÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÚÚØÚÚİßßñññşşşÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿúúûğİÛõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõ‹rõŠrõŠrõŠrõŠrõŠrõŠrõŠrõŠrõŠrõŠrğŞÜøøøÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿıııâããØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÚÚØÚÚìììşşşÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ÷÷øñ×Ôõ‰rõ‰rõ‰rõ‰rõ‰rõ‰rõ‰rõ‰rõ‰rõ‰rõ‰rõ‰rõ‰rõ‰rô‰rô‰rô‰rô‰rô‰rô‰rô‰rô‰rô‰rô‰rô‰rô‰rô‰rô‰rô‰rô‰rô‰rô‰rô‰rô‰rôˆrôˆrôˆrôˆrôˆrôˆrôˆrôˆrôˆrôˆrôˆrôˆrğÛÙôõõÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿıııáãâØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÚÚÛİİöööÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿóôõñÏËôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqôˆqô‡qô‡qô‡qô‡qô‡qô‡qô‡qô‡qñÓÎğñòÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüüüİßßØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÚÚİŞŞùúúÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿğñòñÎÊô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qô†qóĞÌúûûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿö÷÷ØÚÚØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÚÚÛÜÜùùùÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿıııïğññÍÈô…qô…qô…qô…qô…qô…qô…qô…qô…qô…qô…qô…qô…qô…qô…qô…qô…qô…qô…qô…qô…qô…qô…qô…qô…qô…qô…qô…qô…qô…qô…qô…qô…qô…qô…qô…qô„qô„qô„qô„qô„qô„qô„qô„qô„q÷®¤şúùÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿéêêØÚÚÿÿÿÿÿÿÿÿÿÿÿÿØÚÚØÚÚôõõÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿúúúïğñòÈÂö©÷²¨÷¯¤ö¡•ô„qôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒpôƒp÷¬¢ÿüüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüıüÚÜÜØÚÚÿÿÿÿÿÿÿÿÿØÚÚéêêÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿûûûûûüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿşùøû×Óõœó‚pó‚pó‚pó‚pó‚pó‚pó‚pó‚pó‚pó‚pó‚pó‚pó‚pó‚pó‚pó‚pó‚pó‚pó‚pó‚pó‚pó‚pó‚pó‚pó‚pópópópópópópópópópópópôş÷öÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿëììØÚÚÿÿÿÿÿÿØÚÚÛİİıııÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿııùËÆóoóoóoóoóoóoóoóoóoóoóoóoóoóoóoóoóoóoóoóoóoóoóoóoóoóoóoó€oó€oó€oó€oó€oó€oó€oó€oúØÔÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿûûûØÚÚÎÑÑÿÿÿØÚÚíîîÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿûÜÙóqõ“õ¢˜õšó~nóoóoóoóoóoóoóoóoóoó~oõšõ¡˜õ—Œó~nóoóoóoóoóoó~oó~oó~oó~oó~oó~oó~oó~oó~oô‚ÿıüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿâããØÚÚÙÛÛÙÛÛüüüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿşÿÿÿÿÿÿÿÿÿşúúûßÜö¨Ÿó~oó~oó~oó~oó}o÷³¬üãáÿûûÿÿÿÿÿÿÿÿÿşúúûàİö¬¥ó}oó~oó~oó}oó}oó}oó}oó}oó}oó}oó}oó}oø¾¸ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿíîîØÚÚØÚÚåææÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿûŞÜô†{ó|oõ—ıêèÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüäâô†ó{oó{oó{oó{oõ•ŒøÃ¾ú×ÔûŞÛûÛØùÍÊüçæÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿöööØÚÚØÚÚğğğÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿıîí÷±«şùøÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿşõôõ™‘óznõ—üäãÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüüüØÚÚØÚÚøùùÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿşôóùÉÆÿşşÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÚÚØÚÚşşşÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÚÜÜÚÜÜÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÚÜÜİßßÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÚÚÜİİÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿıııØÚÚØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ÷øøØÚÚØÚÚûûûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿïğğØÚÚØÚÚôôôÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿåææØÚÚØÚÚêëëÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿıııÙÛÛÙÛÛØÚÚİŞßÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿïğğØÚÚÿÿÿÿÿÿØÚÚõõõÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿşşşİßßØÚÚÿÿÿÿÿÿØÚÚáããÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿïïïØÚÚÿÿÿÿÿÿÿÿÿÿÿÿØÚÚóôôÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿûûûÚÜÜØÚÚÿÿÿÿÿÿÿÿÿÿÿÿØÚÚÜŞŞüüüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿşşşâããØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÚÚãääÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿèééØÚÚóóóÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿŞßßØÚÚèééÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿéêêØÚÚÓÕÕÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÚÜÜØÚÚçèèşşşÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿşşşæççØÚÚØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÈËËØÚÚáââúúúÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ÷øøßààØÚÚÏÒÒÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÚÚÚÜÜíîîşşşÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿûûûéêêØÚÚØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÚÚØÚÚÛİİìííúúúÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿõööçèèÙÛÛØÚÚØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÚÚØÚÚØÚÚŞààèééïğğóóóööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööööõõõñññìííäææÛİİØÚÚØÚÚ×ÙÙÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚØÚÚÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ            ÿÿÿÿÿÿÿÿÿ                  ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ                  ÿÿÿÿÿÿ                  ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ            ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿ                  ÿÿÿ                  ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿ               ÿÿÿ                  ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿ         ÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ¦¦¦      ÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿ         ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ         ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ      			ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ                                    ÿÿÿÿÿÿ                     ÿÿÿÿÿÿ                        ÿÿÿÿÿÿ                        ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ                        ÿÿÿÿÿÿ                                                                           ÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿ×××                                       ÿÿÿ                                 ÿÿÿ                        ÿÿÿ                                 ÿÿÿÿÿÿÿÿÿ                              ÿÿÿ                                                                              ÿÿÿÿÿÿÿÿÿ            ÿÿÿÿÿÿÿÿÿÿÿÿ                                                                                                                                       ÿÿÿ                                                                                                                  ÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿ                                                            ÿÿÿ                                                            ÿÿÿ               ×××                                                                                                            ÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿ                           ÿÿÿÿÿÿÿÿÿ                                 ÿÿÿ               ÿÿÿÿÿÿÿÿÿ                        ÿÿÿÿÿÿ            ÿÿÿ               ÿÿÿÿÿÿ            ÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿ               ÿÿÿ            ëëëÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ                                                                        ÿÿÿ                                                         ÿÿÿÿÿÿÿÿÿÆÆÆ            ÿÿÿ               ÿÿÿÿÿÿ            ÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿ               ÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ                                                                        ÿÿÿ                                                         ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿ            ÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿ                              ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ                                                                        ÿÿÿ                                                         ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿ            ÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿ                           ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ                           ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿ            ÿÿÿ               ÿÿÿÿÿÿ            ÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿ                           ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿ                                 ÿÿÿÿÿÿÿÿÿ            ÿÿÿ               ÿÿÿ                  ÿÿÿÿÿÿÿÿÿ                        ÿÿÿÿÿÿ               ÿÿÿ               ÿÿÿÿÿÿ            ÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿÕÕÕ                     ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ                                                                                 ÿÿÿ                                                            ÿÿÿ                                    ÿÿÿ                                 ÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ                     ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ                                       °°°                                 ÿÿÿ                                                      “““ÿÿÿ                                 ÿÿÿ                              ÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ                  ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ                                    ÿÿÿ                              ÿÿÿÿÿÿÿÿÿ                  ÿÿÿ                           ÿÿÿÿÿÿÿÿÿ                           ÿÿÿÿÿÿÿÿÿ                              ÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ                  ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ                                 ÿÿÿÿÿÿÿÿÿ                  şşşÿÿÿÿÿÿÿÿÿÿÿÿşşş               ÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿuuu                     ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ                           ÿÿÿÿÿÿ            ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+endstream
+endobj
+94 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 100
+/Height 103
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/DecodeParms <</Predictor 12 /Colors 1 /BitsPerComponent 8 /Columns 100>>
+/Length 10300
+>>
+stream
+                          Mÿÿÿÿÿÿÿÿÿÿ5       ÏÿÿÿÿÿÿÿÿÎ       4ÿÿÿÿÿÿÿÿÿÿF                                                    ÿÿÿÿÿÿÿÿÿÿ5       ÏÿÿÿÿÿÿÿÿÎ       4ÿÿÿÿÿÿÿÿÿÿ                                                     éÿÿÿÿÿÿÿÿÿ5       ÏÿÿÿÿÿÿÿÿÎ       4ÿÿÿÿÿÿÿÿÿã                                                      ·ÿÿÿÿÿÿÿÿÿ5       ÏÿÿÿÿÿÿÿÿÎ       4ÿÿÿÿÿÿÿÿÿ±                                                      …ÿÿÿÿÿÿÿÿÿ5       ÏÿÿÿÿÿÿÿÿÎ       4ÿÿÿÿÿÿÿÿÿ~                                                      Sÿÿÿÿÿÿÿÿÿ5       ÏÿÿÿÿÿÿÿÿÎ       4ÿÿÿÿÿÿÿÿÿM                                                      "ÿÿÿÿÿÿÿÿÿ5       ÏÿÿÿÿÿÿÿÿÎ       4ÿÿÿÿÿÿÿÿÿ                                                       ğÿÿÿÿÿÿÿÿ5       ÏÿÿÿÿÿÿÿÿÎ       4ÿÿÿÿÿÿÿÿé                                                        ¿ÿÿÿÿÿÿÿÿ_5555555ÙÿÿÿÿÿÿÿÿØ5555555^ÿÿÿÿÿÿÿÿ·                                                        ¹ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ­                                                        ÎÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÈ                                                        ÊÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÌ                                                        ×ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÎ                                                        òÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿæ                                                        ûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿù                                                        ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ¸n                                                    ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿú¢(                                                  ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿı•                                                0ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿá:                                               6ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿù`                                            :}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿf                                        gÂÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿX                                      Yåÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿö,                                   ¢ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÔ                                 ½ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿw                                 ¢ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿñ                               Vÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿz                              äÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿä                             cÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>                             ¾ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ…                            	ıÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ¿                            6ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿğ                            Vÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	                           ]ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ$                           Pÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ*                           /ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ0                           õÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿø&                         ³ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿü’                   	QšÔıÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿŞ6                ğÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿø]             }õÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿe            ÌÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿşO         6ëÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿô%       4ñÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿË     æÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿh    Áÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿè	   jÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿe  ìÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÈ  rÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ İÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿd1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿšwÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÇ®ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿßĞÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿóòÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿôøÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿæöÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÌŞÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ¥Âÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿrÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ0Qÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿà öÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ~  ¡ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ÷  1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿŠ    ©ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿå    óÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿF      [ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ        ‰ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ›          —ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ˜            yşÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿúo              @àÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÍ0                
+|ïÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÛ_                   g¾ıÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿì£G                         Ai‹››››››››››››››››››››››››››››››››››››››››››››››››››››››››››››››››—t[+                                                                                                                                                                                                                                                                                                                                                                                                                                            ?ÏÏÏO                                                       <×ç_    Zºáÿ}                           Mÿÿÿb                                                       äÿÿş  ÿÿÿÿ}                           Mÿÿÿb              ˆˆˆM                             ˆˆˆ:  üÿÿÿ0 	öÿÿÿÿ}                           Mÿÿÿb              %ÿÿÿ                             2ÿÿÿm  Šÿÿ»  5ÿÿÿ«.                           Mÿÿÿb              %ÿÿÿ                             2ÿÿÿm   6D  9ÿÿÿi                        
+  Mÿÿÿb     
+      %ÿÿÿ                      2ÿÿÿm        9ÿÿÿi                      GÃşÿÿÆ7Mÿÿÿb  {Üÿÿÿá…  ¦ÔÿÿÿéÍV  åÿÿÿÕq     2®÷ÿÿù²6  ¹×ÿÿÿâÍRœÍÍÈÍØÿÿÿáÍwÌÍÍ»     ™ÍÍÍ5     wÿÿÿÿÿÿøÿÿÿb "Üÿÿÿÿÿÿÿâ. Ïÿÿÿÿÿÿk ;íÿÿÿÿÿÿÿÒ   aûÿÿÿÿÿÿıc æÿÿÿÿÿÿfÂÿÿú%ÿÿÿÿÿÿÿ}¿ÿÿÿ6   ıÿÿæ    MÿÿÿÿÿÿÿÿÿÿÿÿbÜÿÿÿæ¶ÔÿÿÿãÏÿÿÿÿÿÿkïÿÿÿİµİÿÿÿË 2ûÿÿÿÿÿÿÿÿù*æÿÿÿÿÿÿfÂÿÿú%ÿÿÿÿÿÿÿ}_ÿÿÿ…   ^ÿÿÿ‡     ÖÿÿÿÁ) "¨ÿÿÿÿbvÿÿÿ  hÿÿÿ‰ #ÿÿÿ  ÿÿÿz   ÿÿÿc ¸ÿÿÿ›ÿÿÿ– 1ÿÿÿl  Âÿÿú  7ÿÿÿh  ôÿÿÛ   °ÿÿÿ'    1ÿÿÿâ
+   ÄÿÿÿbÖÿÿë    »ÿÿç %ÿÿÿ õÿÿË    àÿÿ¾şÿÿÚ  şÿÿÑ 2ÿÿÿm  Âÿÿú  9ÿÿÿi    ÿÿÿ* øÿÿÆ     fÿÿÿ     Wÿÿÿlÿÿÿä”””””Ëÿÿÿ%ÿÿÿ 1ÿÿÿÓ”””””Öÿÿø?ÿÿÿ•    36- 2ÿÿÿm  Âÿÿú  9ÿÿÿi   Aÿÿÿ~ Sÿÿÿg     ‚ÿÿÿX     6ÿÿÿ‡ÿÿÿÿÿÿÿÿÿÿÿÿÿ0%ÿÿÿ Dÿÿÿÿÿÿÿÿÿÿÿÿÿgÿÿÿv         2ÿÿÿm  Âÿÿú  9ÿÿÿi    ßÿÿÑ ªÿÿö     qÿÿÿ`     8ÿÿÿ}ÿÿÿğÌÌÌÌÌÌÌÌÌ'%ÿÿÿ <ÿÿÿéÌÌÌÌÌÌÌÌÌdÿÿÿy         2ÿÿÿm  Âÿÿú  9ÿÿÿi    €ÿÿÿ'òÿÿ§      Nÿÿÿœ     xÿÿÿböÿÿÔ          %ÿÿÿ ÿÿÿ¬         8ÿÿÿ¦    SdfR 2ÿÿÿm  Âÿÿú  9ÿÿÿi    ÿÿÿ¿ÿÿÿE      óÿÿù3   çÿÿÿb¯ÿÿÿF   ‘b %ÿÿÿ“  Öÿÿø$   §Mõÿÿñ  ÷ÿÿ§ 2ÿÿÿn  Âÿÿú  9ÿÿÿi     ¿ÿÿÿÿÿå       ˆÿÿÿó…\wæÿÿÿÿb9ÿÿÿóm1HÁÿÿÿx ÿÿÿâ‘@bÿÿÿâ_1RÖÿÿÿR –ÿÿÿ×fg×ÿÿÿD 4ÿÿÿŞ‘>Âÿÿú  9ÿÿÿi     `ÿÿÿÿÿ„        
+Íÿÿÿÿÿÿÿâÿÿÿb ƒÿÿÿÿÿÿÿÿÿÄ ïÿÿÿÿk ¨ÿÿÿÿÿÿÿÿÿ£  áÿÿÿÿÿÿÿÿ³  úÿÿÿÿfÂÿÿú  9ÿÿÿi     óÿÿÿÿ#         ·ÿÿÿÿÿÆDÿÿÿb  mñÿÿÿÿÿşš
+   düÿÿÿk ‡ùÿÿÿÿÿ÷ƒ   Áÿÿÿÿÿÿ­
+   tÿÿÿÿfÂÿÿú  9ÿÿÿi      ŸÿÿÿÃ            ;ˆš‘O DDD   [“š—j      ]jc"   f˜š”`       9|›š3      #`jb 4DDB  DDD      uÿÿÿc                                                                                               Îÿÿõ                                                                                              2ÿÿÿ¢                                                                                               “ÿÿÿC                                                                                              îÿÿá                                                                                               Tøøø       
+endstream
+endobj
+95 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 75
+/Height 20
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/DecodeParms <</Colors 3 /BitsPerComponent 8 /Columns 75>>
+/SMask 96 0 R
+/Length 4500
+>>
+stream
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ           ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ¡¡¡               ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ€€€                                        ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ           ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ         ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ                                      ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ           ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ           ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ                                     ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ¡                         ééé                     ¹¸¸              ¡  ¤¤¤                  ÑÑÑÿÿÿÿÿÿééé                                                                  ÿÿÿ©©©            ‰‰‰                                                                    $""ÿÿÿ   "                                                      ÿÿÿ                                                                                                                                            ÿÿÿ                                                                                                                                                EDD                                                                                                                                                                                                                                                                                                                      ®®®                                                                                                                                              ÿÿÿ                                                                         ÿÿÿ/..                                       JII                               211                                                                                                                ÿÿÿ                                                                                                                                                    ÿÿÿ644              ———                                                                                                                                ÿÿÿÿÿÿ
+               ÿÿÿ                                                                                                                       ÿÿÿÿÿÿ              @??ÿÿÿ                                       $""                               +))                                                      ÿÿÿÿÿÿ                ÿÿÿÿÿÿééé      		   
+
+;::      	
+	      ÿÿÿ            
+
+
+      ÏÏÏÿÿÿ      	
+
+   ÿÿÿîîî            ÿÿÿÿÿÿ          ¶¶¶ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ           ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ           ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ               ÿÿÿÿÿÿÿÿÿ
+endstream
+endobj
+96 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 75
+/Height 20
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/DecodeParms <</Predictor 12 /Colors 1 /BitsPerComponent 8 /Columns 75>>
+/Length 1500
+>>
+stream
+       8ñÿÇ                                          5öûZ  5Õşú\                 8ñÿÇ          .1&                      22 Àÿÿæ ÿÿÿÿ_                 8ñÿÇ          3Üê¶                      tëët ƒÿÿ± eÿşÿ§:                 8ñÿÇ          8ñÿÇ                      ÿÿ gr  iÿÿ£              DRN&5ñÿÇ  /MRH* hôÿÔG  GQO6     /MRH(  .ÿÿ:52)%Œÿÿ­5<:;#  <:< @Èıÿÿß›óÿÇ¡èÿÿÿã” Wÿşÿüúd yØÿÿÿï»( šèÿÿÿây ÉıÿÿùıHşöª²ùÿÿúíÙóô¸  yøôŞçÿÿÿÿÿşÿÿÈ¾ÿÿÿÿÿÿÿ›Sÿÿÿÿÿjjüÿÿÿÿÿÿæ ÿÿÿÿÿÿÿJÒÿÿÿÿÿLÿÿ³¾ÿÿÿÿû¡òÿó  Ğÿÿx†ÿÿù˜[”öÿÿÁ`ÿÿøsZôÿÿUöÿÜi9ßÿı¡)0Ëÿÿ†ÿÿÿ¥XÅÿÿå=°ÿÿ®]Uÿÿª8¡ÿÿ½V$İÿÿL (îÿÿ#åÿÿ   ‚şÿ¸Óÿÿ”|ÿÿ©&ñÿÆ;ÿÿéQöÿÂ—ÿÿ×  ôèøzÿÿ| [ÿÿ¥ eÿÿ”  …ÿÿ¼ büÿÂÿÿÿ'   4ğÿÇòÿÿñëëëğÿÿÜ(ñÿÇ	tÿÿıêëëîşÿŞ¼ÿÿœ   ÿÿ€ [ÿÿ¥ iÿÿ—  	ÿÿÿ£ÿÿw ÿÿÿ   ëÿÙöÿÿ÷óóóóòóÔ)ñÿÇ’ÿÿıòóóóòôÔ»ÿÿ]       €ÿÿ€ [ÿÿ¥ iÿÿ—   ·ÿÿyØÿò8 øÿÿR   L÷ÿ¶åÿÿ‰:@?>G2/5ñÿÅLÿÿè5??>Q/$¨ÿÿ«  wpj €ÿÿ{ [ÿÿ¥ iÿÿ—   CÿÿáúÿÔ  §ÿÿÛ Áÿÿ½œÿÿá  ³ÕÌp0ñÿğ.ÿÿöK  m×ÉŒhÿÿü. Sÿÿò €ÿÿµ \ÿÿ¥ iÿÿ—   ßÿÿÿÿe  'ÿÿÿÿÉúÿÿÿÆúÿÿı¶íÿÿÿ
+5ñÿÿÿs ÿÿÿ½Ïÿÿıi úÿÿıÙÿÿÿt ÿÿÿÿLÿÿ¥ iÿÿ—   ˜ÿÿÿÿ   pùÿÿÿÿĞıÿÎ	JçÿÿÿÿÿêJ Èÿÿÿj!Âÿÿÿÿÿù˜  4ìÿÿÿÿÿÇ
+ NûÿÿÿNÿÿª lÿÿ›    P÷ÿÿ”    ;–´µj u‚e $lµ²µl'    oƒ…5 V¤²±‰B    'lµ²ª`   @„‡&‡ƒT 5……L    "ìÿÿ,                                    bûÿÊ                                                                     ¨ÿÿ„                                                                      òÿô>                                                                      oÿÿ×     
+endstream
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 79 0 R
+/F2 80 0 R
+/F3 81 0 R
+/F4 82 0 R
+/F5 83 0 R
+/F6 84 0 R
+/F7 85 0 R
+/F8 86 0 R
+/F9 87 0 R
+/F10 88 0 R
+/F11 89 0 R
+/F12 90 0 R
+/F13 91 0 R
+/F14 92 0 R
+>>
+/XObject <<
+/I0 93 0 R
+/I1 95 0 R
+>>
+>>
+endobj
+97 0 obj
+<<
+/Producer (jsPDF 1.5.3)
+/CreationDate (D:20211012153330-05'00')
+>>
+endobj
+98 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 99
+0000000000 65535 f 
+0000102775 00000 n 
+0000152948 00000 n 
+0000000015 00000 n 
+0000000124 00000 n 
+0000000761 00000 n 
+0000000870 00000 n 
+0000005423 00000 n 
+0000005532 00000 n 
+0000007018 00000 n 
+0000007128 00000 n 
+0000011169 00000 n 
+0000011280 00000 n 
+0000013911 00000 n 
+0000014022 00000 n 
+0000015937 00000 n 
+0000016048 00000 n 
+0000018808 00000 n 
+0000018919 00000 n 
+0000021688 00000 n 
+0000021799 00000 n 
+0000023716 00000 n 
+0000023827 00000 n 
+0000026814 00000 n 
+0000026925 00000 n 
+0000028814 00000 n 
+0000028925 00000 n 
+0000032986 00000 n 
+0000033097 00000 n 
+0000038152 00000 n 
+0000038263 00000 n 
+0000040215 00000 n 
+0000040326 00000 n 
+0000043357 00000 n 
+0000043468 00000 n 
+0000043774 00000 n 
+0000043885 00000 n 
+0000045851 00000 n 
+0000045962 00000 n 
+0000049820 00000 n 
+0000049931 00000 n 
+0000053969 00000 n 
+0000054080 00000 n 
+0000058056 00000 n 
+0000058167 00000 n 
+0000062066 00000 n 
+0000062177 00000 n 
+0000066340 00000 n 
+0000066451 00000 n 
+0000070139 00000 n 
+0000070250 00000 n 
+0000071585 00000 n 
+0000071696 00000 n 
+0000075532 00000 n 
+0000075643 00000 n 
+0000079416 00000 n 
+0000079527 00000 n 
+0000081902 00000 n 
+0000082013 00000 n 
+0000083494 00000 n 
+0000083605 00000 n 
+0000085116 00000 n 
+0000085227 00000 n 
+0000086716 00000 n 
+0000086827 00000 n 
+0000088314 00000 n 
+0000088425 00000 n 
+0000089906 00000 n 
+0000090017 00000 n 
+0000093103 00000 n 
+0000093214 00000 n 
+0000095527 00000 n 
+0000095638 00000 n 
+0000097385 00000 n 
+0000097496 00000 n 
+0000099335 00000 n 
+0000099446 00000 n 
+0000101044 00000 n 
+0000101155 00000 n 
+0000103089 00000 n 
+0000103215 00000 n 
+0000103346 00000 n 
+0000103480 00000 n 
+0000103618 00000 n 
+0000103742 00000 n 
+0000103871 00000 n 
+0000104003 00000 n 
+0000104139 00000 n 
+0000104267 00000 n 
+0000104394 00000 n 
+0000104523 00000 n 
+0000104656 00000 n 
+0000104758 00000 n 
+0000104854 00000 n 
+0000135979 00000 n 
+0000146505 00000 n 
+0000151226 00000 n 
+0000153223 00000 n 
+0000153309 00000 n 
+trailer
+<<
+/Size 99
+/Root 98 0 R
+/Info 97 0 R
+/ID [ <11DDD1E4D23EEEBFCF67F90C4E456DEB> <11DDD1E4D23EEEBFCF67F90C4E456DEB> ]
+>>
+startxref
+153413
+%%EOF

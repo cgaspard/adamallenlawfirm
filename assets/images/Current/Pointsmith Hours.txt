@@ -1,0 +1,5 @@
+2021.09.27 - 
+	2 hrs - Worked on issue with all sales.    The resolution was that it was a multi part problems.   Some users had file access issues after the move of the file server.   There was a database lock issue that John resolved, and there was also a bad sql statement.
+	2.5 hrs - Worked on issue with printing labels.   I tested the 
+	1 hrs - XMPie database sq password, ased by Steve to see if i can resolve it
+	

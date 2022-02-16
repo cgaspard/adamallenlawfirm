@@ -1,0 +1,15 @@
+
+I’m AFK for a few
+Thumbnail link preview for app.netlify.com
+Netlify App
+app.netlify.com
+Login: https://app.netlify.com/login/email  User: admin@thedebrief.org Pass: Tanach1620#
+scp root@tdbrf.com:/root/docker-wordpress-letsencrypt/data/site/wp-content/uploads/static-html-output.zip .
+password: Tanach1620#
+Thumbnail link preview for app.netlify.com
+Netlify App
+app.netlify.com
+after you download the zip, go to this page https://app.netlify.com/sites/wizardly-meitner-17a5c2/deploys?filter    scroll to the bottom and drag the zip file whre it says drop your site folder here
+
+
+V<ne8E%S
